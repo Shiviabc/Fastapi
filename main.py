@@ -1,5 +1,5 @@
 import json
-import logging # Import logging
+import logging  # Import logging
 from fastapi import FastAPI, Depends
 from schemas import CounselRequest, CollegeRecommendation, CombinedResponse
 from ai.ollamas import Ollama
@@ -16,7 +16,7 @@ logging.basicConfig(level=logging.INFO)
 
 app = FastAPI()
 
-# ... (origins and middleware are the same)
+# --- CORS Setup ---
 origins = [
     "http://localhost:8080",
     "http://localhost:5000"
@@ -31,7 +31,7 @@ app.add_middleware(
 )
 
 
-# ... (system prompt, retriever, and ml_model loading are the same)
+# --- System Prompt Loader ---
 def load_system_prompt():
     try:
         with open("prompt/system_prompt.md", "r") as f:
@@ -40,9 +40,11 @@ def load_system_prompt():
         print("Warning: system_prompt.md not found.")
         return ""
 
+
 SYSTEM_PROMPT = load_system_prompt()
 ai_platform = Ollama(model="mistral")
 
+# --- Retriever Initialization ---
 retriever = None
 retriever_error = None
 try:
@@ -51,6 +53,7 @@ except Exception as e:
     retriever_error = str(e)
     print(f"Retriever failed to initialize: {retriever_error}")
 
+# --- ML Model Initialization ---
 ml_model = None
 try:
     ml_model = joblib.load("college_eligibility_predictor.pkl")
@@ -64,7 +67,6 @@ async def combined_counseling(request: CounselRequest, user_id: str = Depends(ge
     logging.info("Combined counseling endpoint hit.")
     apply_rate_limit(user_id)
 
-    # ... (error handling and ML logic are the same)
     if not retriever or not ml_model:
         error_detail = retriever_error or "ML model not loaded."
         return CombinedResponse(ml=[], llm=f"Error: The recommendation engine is not available. Details: {error_detail}")
@@ -81,18 +83,19 @@ async def combined_counseling(request: CounselRequest, user_id: str = Depends(ge
         "program_name": df_candidates.get("program_name", df_candidates.get("name")),
         "category": df_candidates.get("category", "GEN"),
     })
+
     probs = ml_model.predict_proba(X_new)[:, 1]
     df_candidates["eligibility_prob"] = probs
     top_ml_colleges = df_candidates.sort_values("eligibility_prob", ascending=False).head(3)
-    ml_recommendations = [ CollegeRecommendation(**row) for _, row in top_ml_colleges.iterrows() ]
+
+    ml_recommendations = [CollegeRecommendation(**row) for _, row in top_ml_colleges.iterrows()]
     logging.info("ML recommendations generated.")
 
-    # === LLM Logic with the CRITICAL FIX ===
+    # === LLM Logic ===
     context_str = top_ml_colleges.to_json(orient="records", indent=2)
     prompt_text = (
         f"A student has the following profile:\n"
         f"- Interests: {query}\n"
-# ... (rest of prompt is the same)
         f"- Board Marks: {request.board_marks}%\n"
         f"- Entrance Exam Rank: {request.entrance_exam_rank}\n\n"
         f"Based on their rank, our algorithm has recommended these top 3 colleges:\n{context_str}\n\n"
@@ -102,8 +105,6 @@ async def combined_counseling(request: CounselRequest, user_id: str = Depends(ge
     )
     full_prompt = f"{SYSTEM_PROMPT}\n\n{prompt_text}"
 
-    # --- THIS IS THE FIX ---
-    # You MUST use 'await' here because chat() is now an async function.
     llm_counseling_text = await ai_platform.chat(full_prompt)
     logging.info("LLM counseling generated.")
 
@@ -112,6 +113,8 @@ async def combined_counseling(request: CounselRequest, user_id: str = Depends(ge
         llm=llm_counseling_text
     )
 
+
+# --- Root Endpoint ---
 @app.get("/")
 async def root():
     return {"message": "College Counseling API with RAG is running."}
