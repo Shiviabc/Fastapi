@@ -1,0 +1,838 @@
+College_Name,State,Stream,UG_fee,PG_fee,Rating,Academic,Accommodation,Faculty,Infrastructure,Placement,Social_Life
+"Loyola College, Chennai",Tamil Nadu,Arts,654,670,8.6,8.7,8.2,8.3,8.9,8.4,8.8
+"Presidency College, Chennai",Tamil Nadu,Arts,654,870,8.2,8.8,7.3,8.9,8.1,7.6,8.6
+Madras Christian College,Tamil Nadu,Arts,654,670,8.6,8.5,7.9,8.6,8.7,8.4,9.2
+Women'S Christian College,Tamil Nadu,Arts,654,670,8.7,9,7.9,8.8,9.1,8.5,8.9
+"Guru Nanak College, Chennai",Tamil Nadu,Arts,654,670,7.9,8.2,7.1,8,8.4,7.3,8.5
+"Kamadhenu College Of Arts & Science, Dharmapuri",Tamil Nadu,Arts,654,670,7.7,8,7,8,7,9,7
+"Ethiraj College For Women, Chennai",Tamil Nadu,Arts,654,670,8.1,8.5,7.3,8.2,7.9,7.9,8.6
+"M.O.P. Vaishnav College For Women, Chennai",Tamil Nadu,Arts,654,670,8.5,8.7,8.1,8.7,8.4,8.3,9
+"Quaide-E-Millath Government College For Women (Autonomous), Chennai",Tamil Nadu,Arts,654,670,6.7,6.5,6.5,7.7,7,5,7.3
+"Loganatha Narayanasamy Government College, Ponneri",Tamil Nadu,Arts,654,670,6.5,8,5.5,7,5.5,6,7
+"Ramakrishna Mission Vivekananda College, Chennai",Tamil Nadu,Arts,265,815,8.2,8.8,7.8,8.6,7.8,8.1,8
+"Sri Krishna Arts And Science College, Coimbatore",Tamil Nadu,Arts,654,670,8.5,8.6,7.8,8.6,8.9,8.7,8.5
+"Hindusthan College Of Arts And Science- [Hicas],",Tamil Nadu,Arts,654,670,7.5,7.7,6.5,7.4,8.4,7.5,7.3
+"Cbm College Of Arts And Science, Coimbatore",Tamil Nadu,Arts,654,670,5.3,6,3.5,6,6,3.5,6.5
+"Cms College Of Science And Commerce, Coimbatore",Tamil Nadu,Arts,654,670,8.2,8.3,7.4,8.1,8.5,8,8.7
+Rathinam College Of Arts And Science,Tamil Nadu,Arts,654,670,8.2,7.6,7.5,8.1,8.7,8.1,9
+"Queen Mary'S College, Chennai",Tamil Nadu,Arts,592,670,7.6,7.9,6.9,8.3,6.8,7.6,8.2
+"Psg College Of Arts And Science, Coimbatore",Tamil Nadu,Arts,654,670,8.3,8.5,7.9,8.2,8.5,8.2,8.7
+"Kongunadu Arts And Science College, Coimbatore",Tamil Nadu,Arts,654,670,7.3,8,6.7,8.3,7.3,6.3,7
+Bharathiar University,Tamil Nadu,Arts,654,670,7.8,8,7.6,8.1,7.7,7.5,7.9
+"Meenakshi College For Women, Chennai",Tamil Nadu,Arts,654,670,7.4,8.1,6.5,7.8,7.2,7.9,7.1
+Justice Basheer Ahmed Sayeed College For Women,Tamil Nadu,Arts,654,670,8.1,8.3,6.9,8.7,8.5,7.9,8.3
+"Sdn Bhatt Vaishnav College For Women, Chennai",Tamil Nadu,Arts,654,670,8.6,8.8,7.9,8.8,8.7,8.6,8.8
+Dr Gr Damodaran College Of Science,Tamil Nadu,Arts,654,670,7.5,8,6.3,7.9,7.5,7.2,8.2
+"Stella Maris College, Chennai",Tamil Nadu,Arts,654,670,8.2,8.8,7.5,8.6,8.4,7.6,8.5
+Ponnaiyah Ramajayam Institute Of Science And Technology,Tamil Nadu,Arts,654,670,6.5,6.8,6.4,6.9,7,5.4,6.3
+"Nirmala College For Women, Coimbatore",Tamil Nadu,Arts,654,670,8.6,9,8.5,8.5,9,8.3,8.1
+"Pachaiyappa'S College, Chennai",Tamil Nadu,Arts,654,901,6.6,6.6,6.2,7.2,6.9,5.2,7.6
+Dr. Mgr Janaki College Of Arts And,Tamil Nadu,Arts,654,670,5.6,6.5,4.8,5.2,5,5.2,6.8
+"Psgr Krishnammal College For Women, Coimbatore",Tamil Nadu,Arts,654,670,8.8,9.1,8.3,8.6,8.9,8.7,9
+"St. Xavier'S College, Mumbai",Maharashtra,Arts,654,670,8.2,8.7,7.3,8.3,8.8,7.6,8.7
+"Fergusson College, Pune",Maharashtra,Arts,654,670,8.1,8.5,7.3,8.2,8.5,7.1,8.7
+K J Somaiya College Of Arts &,Maharashtra,Arts,654,670,8.1,8.1,8.4,7.8,8.8,7,8.5
+Jai Hind College,Maharashtra,Arts,654,670,8.5,8.5,8.3,8.5,8.4,7.8,9.2
+"Ramnarain Ruia Autonomous College, Mumbai",Maharashtra,Arts,654,670,7.9,8.4,7,8,8.4,6.6,8.9
+Kishinchand Chellaram College,Maharashtra,Arts,654,670,8.3,8.6,7.9,8.5,8.4,7.4,8.7
+St Andrew'S College Of Arts Science And,Maharashtra,Arts,654,670,8.2,8.4,7.2,8.3,8.6,7.6,8.8
+Modern College Of Arts Science And Commerce,Maharashtra,Arts,654,670,7.5,8,6.6,8.3,7.3,6.9,7.6
+"Sophia College For Women, Mumbai",Maharashtra,Arts,654,670,8.6,9.1,8.4,9.1,9.5,6.6,9
+"St. Mira'S College For Girls, Pune",Maharashtra,Arts,654,670,6.9,7.2,6.1,8.3,6.8,5.6,7.2
+Kelkar Education Trust'S V.G. Vaze College Of,Maharashtra,Arts,654,670,8.4,8.9,7.8,8.7,8.7,7.7,8.7
+"M.E.S. Abasaheb Garware College, Pune",Maharashtra,Arts,654,670,8,8.6,7.6,8.6,8.1,7,8.1
+"Symbiosis College Of Arts And Commerce, Pune",Maharashtra,Arts,654,670,8.3,8.8,7.5,8.6,7.7,8.2,8.9
+"Wilson College, Mumbai",Maharashtra,Arts,654,670,7.4,7.7,6.7,7.9,7.7,6.1,8.3
+"Elphinstone College, Mumbai",Maharashtra,Arts,654,670,7.5,8.1,6.8,7.9,7.9,6.5,8
+"Mithibai College Of Arts, Mumbai",Maharashtra,Arts,654,670,8.5,8.5,8.3,8.4,8.9,7.6,9
+"Abeda Inamdar Senior College, Pune",Maharashtra,Arts,654,670,7.6,7.9,7.1,8.2,8.1,6.8,7.5
+Sies College Of Arts Science And Commerce,Maharashtra,Arts,654,670,7.7,8.4,6.6,8.4,7.6,6.9,8.3
+Ramniranjan Jhunjhunwala College,Maharashtra,Arts,654,670,8,8.8,5.9,9.1,7.9,8,8.4
+"Vinayakrao Patil Mahavidyalaya, Aurangabad",Maharashtra,Arts,654,670,7.3,7.5,7,7,8,7,7
+St Francis De Sales College,Maharashtra,Arts,654,670,8,8.3,7.5,8.7,8.3,6.8,8.4
+"Dr. D.Y. Patil Arts, Science And Commerce",Maharashtra,Arts,654,670,8,8.3,7.3,8.3,8.5,7.4,8.1
+"Gramonnati Mandal'S Arts, Commerce & Science College",Maharashtra,Arts,654,670,6.7,7,6,7,7,6,7
+"Pws College Of Arts & Commerce, Nagpur",Maharashtra,Arts,654,670,7.6,8.7,4.3,9.7,8.3,4.7,8.1
+"Hislop College, Nagpur",Maharashtra,Arts,654,670,8,8.3,7.2,8.6,8,7.5,8.6
+"Poona College Of Arts, Science And Commerce",Maharashtra,Arts,654,670,7,7.4,6.1,8.7,7.7,4.7,7.1
+Dr Babasaheb Ambedkar Marathwada University,Maharashtra,Arts,654,670,7.1,7.4,6.4,8,7.1,5.8,7.8
+Dhanwate National College,Maharashtra,Arts,654,670,7.4,7.6,6.4,8,8.4,6.2,8
+"Vasantrao Naik Mahavidyalaya, Aurangabad",Maharashtra,Arts,654,670,5.6,7.5,3.5,8,4.5,3,7
+"Yashwantrao Mohite College, Pune",Maharashtra,Arts,654,670,5,5.8,4.4,5.7,5,4.3,4.6
+Indian Institute Of Technology,Uttar Pradesh,Arts,654,670,8.9,9.1,8.4,8.7,9.3,8.9,9.1
+"National Post Graduate College, Lucknow",Uttar Pradesh,Arts,654,670,7.6,8.6,7.4,8.5,7.6,6.8,6.7
+Isabella Thoburn Degree College,Uttar Pradesh,Arts,654,670,7.7,8.5,7.2,8.4,7.8,5.9,8.2
+Chhatrapati Shahu Ji Maharaj University,Uttar Pradesh,Arts,654,670,7.1,7.2,6.6,7.5,8,5.8,7.7
+University Of Lucknow,Uttar Pradesh,Arts,654,670,7.4,7.9,7,7.8,7.7,6.1,7.6
+"Dav Post Graduate College, Varanasi",Uttar Pradesh,Arts,654,670,7.5,8.7,6.1,8.8,7.9,5.3,8.3
+"Avadh Girls' Degree College, Lucknow",Uttar Pradesh,Arts,654,670,7.2,7.6,6.9,7.9,6.5,6.4,8
+"J.V.Jain College, Saharanpur",Uttar Pradesh,Arts,654,670,6.5,7.7,5,8.1,6.5,5.3,6.5
+Baba Baijnath Degree College,Uttar Pradesh,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+"Navyug Kanya Mahavidyalaya, Lucknow",Uttar Pradesh,Arts,654,670,5.9,6.8,4.6,7.4,5,5.1,6.4
+"Dhirendra Mahila Mahavidyalaya, Varanasi",Uttar Pradesh,Arts,654,670,8.5,8.8,7.8,8.9,8.3,8.1,8.8
+Brahmavart Post Graduate College,Uttar Pradesh,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+"Amity University, Lucknow",Uttar Pradesh,Arts,654,670,8.1,8,7.6,8.1,8.8,7.1,8.8
+"Dr Rammanohar Lohiya Mahavidyalaya, Kanpur",Uttar Pradesh,Arts,654,670,6.2,5.5,5.5,5.5,6,5.5,9
+"Shri Jai Narain Pg College, Lucknow",Uttar Pradesh,Arts,654,670,7.1,7.5,6.6,7.6,7.3,6.4,7.4
+"Mahila Vidyalaya Pg College, Lucknow",Uttar Pradesh,Arts,654,670,6.7,8.2,7.4,8,8,3,9
+"Christ Church College -[Ccc], Kanpur",Uttar Pradesh,Arts,654,670,7.3,8,5.9,8.1,7.8,5.9,8.1
+"Manohar Lal Mahavidhyalaya, Kanpur",Uttar Pradesh,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+"Shia Pg College, Lucknow",Uttar Pradesh,Arts,654,670,6.5,8.6,4.3,7.2,6.5,5.2,6.9
+"Baba Baruadas Pg College, Ambedkar Nagar",Uttar Pradesh,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+Dayanand Brajendra Swarup College,Uttar Pradesh,Arts,654,670,7.1,8,6.6,7.9,6.9,5.8,7.5
+Pandit Prithi Nath College,Uttar Pradesh,Arts,654,670,6.1,7.6,4,7.1,6.2,5.9,5.9
+"Dr. Shakuntala Misra National Rehabilitation University, Lucknow",Uttar Pradesh,Arts,654,670,7.2,7.2,6.7,7.6,8.9,5.9,6.6
+Mahatma Gandhi Kashi Vidyapith,Uttar Pradesh,Arts,654,670,7.1,7.5,6.9,7.9,7.5,5.6,7.3
+Dayanand Danku Paraga Gyan Uday Mahavidyalaya,Uttar Pradesh,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+"Lucknow Christian Degree College, Lucknow",Uttar Pradesh,Arts,654,670,7.3,8.4,6.4,8.6,7.9,5.4,7.3
+"Eram Girls Degree College, Lucknow",Uttar Pradesh,Arts,654,670,8.4,9,8,9,8,7.5,8.1
+"Shree Shakti Degree College, Kanpur",Uttar Pradesh,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+"Rama Degree College, Lucknow",Uttar Pradesh,Arts,654,670,8.8,9,8,8.2,8,7.5,8.1
+"Vssd College, Kanpur",Uttar Pradesh,Arts,654,670,6.3,7.7,6.2,7.2,6.7,4.6,5.6
+Lady Shri Ram College For Women,Delhi Ncr,Arts,654,670,8.5,8.8,7.9,8.6,8.6,8,8.9
+"Miranda House, New Delhi",Delhi Ncr,Arts,654,670,8.6,9.1,8.5,8.5,9.3,7.1,8.9
+"Hindu College, New Delhi",Delhi Ncr,Arts,654,670,8.4,8.8,7.9,8.7,8.5,7.6,9
+Hansraj College,Delhi Ncr,Arts,654,670,8.4,8.7,7.9,8.7,8.5,7.8,8.9
+"Ramjas College, New Delhi",Delhi Ncr,Arts,654,670,7.9,8.4,7.1,8.4,7.9,7,8.5
+Jesus And Mary College,Delhi Ncr,Arts,654,670,7.9,8.6,6.9,8.1,8.5,7.1,8.4
+"Gargi College, New Delhi",Delhi Ncr,Arts,654,670,8.2,8.5,7.2,8.6,8,7.8,9
+"Sri Venkateswara College, New Delhi",Delhi Ncr,Arts,654,670,8.3,8.7,7.8,8.5,8.2,7.9,8.8
+Delhi College Of Arts And Commerce,Delhi Ncr,Arts,654,670,7.9,8.3,7.3,8.2,7.1,7.9,8.8
+Shri Ram College Of Commerce,Delhi Ncr,Arts,654,670,8.8,9.1,7.7,9.1,8.9,8.9,9.1
+Maharaja Agrasen College,Delhi Ncr,Arts,654,670,7.7,8.2,6.7,8.1,8.7,6.5,7.9
+Indraprastha College For Women,Delhi Ncr,Arts,654,670,8,8.8,7.6,8.2,8.8,7.1,7.5
+Aditi Mahavidyalaya,Delhi Ncr,Arts,654,670,7.3,7.7,6.5,8,7,7.1,7.3
+"Kalindi College, New Delhi",Delhi Ncr,Arts,654,670,7.4,8.6,6.4,8.4,7,6.3,7.8
+"Lingaya'S Vidyapeeth, Faridabad",Delhi Ncr,Arts,654,670,7.8,8,7.5,8.1,7.7,7.3,8.1
+Manav Rachna International Institute Of Research And,Delhi Ncr,Arts,654,670,7.5,7.4,7.3,7.5,8.3,6.6,7.6
+Kamala Nehru College,Delhi Ncr,Arts,654,670,8.1,8.7,7.6,8.8,7.3,7.2,8.7
+Indian Institute Of Technology,Delhi Ncr,Arts,654,670,8.7,9,7.8,8.7,8.9,9,9
+"St Stephen'S College, New Delhi",Delhi Ncr,Arts,654,670,8.7,9.2,7.6,9.1,8.6,8.6,9.1
+Indian Institute Of Mass Communication,Delhi Ncr,Arts,654,670,7.3,7.8,6.5,7.5,7.4,7.6,7
+Jawaharlal Nehru University,Delhi Ncr,Arts,654,670,8.5,9,8.2,9,8.7,7.2,9.1
+Kirori Mal College,Delhi Ncr,Arts,654,670,8.2,8.7,7.6,8.6,7.9,7.3,8.9
+Atma Ram Sanatan Dharma College,Delhi Ncr,Arts,654,670,7.8,8.4,6.7,8.4,8,6.8,8.7
+"Deen Dayal Upadhyaya College, New Delhi",Delhi Ncr,Arts,654,670,7.9,8.4,7.4,8.3,8.4,6.5,8.2
+"Jamia Millia Islamia University-[Jmi], New Delhi",Delhi Ncr,Arts,654,670,8,8.4,7.6,8.3,8.4,7.2,8.2
+"Lady Irwin College, New Delhi",Delhi Ncr,Arts,654,670,8.2,9,6.9,8.9,8.7,6.8,9
+"Ajk Mass Communication Research Centre, New Delhi",Delhi Ncr,Arts,654,670,7.7,8.5,7,8.3,8.3,8.8,5.3
+Sri Guru Tegh Bahadur Khalsa College,Delhi Ncr,Arts,654,670,7.8,8.2,7.2,8.2,8.1,6.8,8.3
+"Jamia Hamdard University, New Delhi",Delhi Ncr,Arts,654,670,7.5,8.1,7.3,7.8,8.1,6.5,7.4
+Shaheed Rajguru College Of Applied Sciences For,Delhi Ncr,Arts,654,670,7.9,8.3,7.3,8.3,8.8,6.5,8.1
+"Silver Jubilee Government Degree College, Kurnool",Andhra Pradesh,Arts,654,670,7.7,8.3,6.1,9,7.7,7.1,7.9
+"Dr. Lankapalli Bullayya College, Visakhapatnam",Andhra Pradesh,Arts,654,670,8.2,8.7,7.5,8.6,9,6.8,8.3
+Pvkn Govt Degree College,Andhra Pradesh,Arts,654,670,8.9,9.7,7.7,9,8.7,8.3,9.7
+"Andhra University, Dr. B. R. Ambedkar College",Andhra Pradesh,Arts,654,670,8.5,9.5,7.5,9.5,8,8,8.5
+Andhra Loyola College,Andhra Pradesh,Arts,654,670,8,8.5,7.4,8.5,8.6,7,8.2
+K L University,Andhra Pradesh,Arts,654,670,8.3,8.5,7.6,8.3,8.8,8.3,8.2
+Ifmr Graduate School Of Business,Andhra Pradesh,Arts,654,670,8.2,8.3,8.1,8.4,8.3,8.5,7.8
+Sri Venkateswara University,Andhra Pradesh,Arts,654,670,8.1,7.9,8.3,8.2,7.9,7.7,8.4
+Gitam Institute Of Management,Andhra Pradesh,Arts,654,670,8.5,8.6,7.3,8.8,9.2,8.4,8.7
+"Vignanâ€™S Foundation For Science, Technology, And Research,",Andhra Pradesh,Arts,654,670,8.2,8.2,8.4,8.5,8.2,7.7,8.4
+Acharya Nagarjuna University,Andhra Pradesh,Arts,654,670,7.3,7.7,7,7.2,8,5.7,8.2
+"Krea University, Sri City",Andhra Pradesh,Arts,654,670,8.6,8.2,8.6,8.7,8.6,8.8,8.8
+Indian Institute Of Management Visakhapatnam,Andhra Pradesh,Arts,654,670,8.9,8.8,9,9,8.8,8.8,8.8
+Indian Institute Of Technology,Andhra Pradesh,Arts,654,670,8.6,9,8.1,8.8,8.7,8.2,8.9
+Centurion University Of Technology And Management,Andhra Pradesh,Arts,654,670,7.8,8,7.2,8.3,7.6,7.4,8.3
+Vit University,Andhra Pradesh,Arts,654,670,8.2,8.3,7.9,8.3,8.1,8.4,8.1
+"Srm University, Amaravathi",Andhra Pradesh,Arts,654,670,8.7,8.7,8.1,9.2,9.2,8.4,8.4
+"Madanapalle Institute Of Technology & Science, Madanapalle",Andhra Pradesh,Arts,654,670,8.4,8.5,7.6,8.7,8.3,8.5,8.5
+"Risali Institute Of Management, Visakhapatnam",Andhra Pradesh,Arts,654,670,8.4,8.2,8.3,8.3,8.8,8.4,8.4
+"Andhra University, College Of Science & Technology,",Andhra Pradesh,Arts,654,670,8,8.6,6.4,8.8,8.3,7.1,8.7
+Siddartha Educational Academy Group Of Institutions,Andhra Pradesh,Arts,654,670,6.2,6.3,4.6,6.9,7.6,5.3,6.4
+"Agl Degree And Pg College, Visakhapatnam",Andhra Pradesh,Arts,654,670,7.4,7.5,6,9,8,6,8
+"Adoni Arts And Science College, Adoni",Andhra Pradesh,Arts,654,670,8.2,8.5,7.3,8.5,8.3,7.8,8.7
+A.G & S.G Siddhartha Degree College Of,Andhra Pradesh,Arts,654,670,8.5,8.9,7.6,8.9,8.4,8.4,8.8
+Akkineni Nageswara Rao College,Andhra Pradesh,Arts,654,670,8.6,9,9,8.3,8,7.5,8.1
+"Andhra Muslim College Of Arts And Science,",Andhra Pradesh,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+"Annabattuni Satyanarayana Degree College, Guntur",Andhra Pradesh,Arts,654,670,6.9,7.7,6,8,6.3,8.3,5
+"Besant Theosophical College, Madanapalle",Andhra Pradesh,Arts,654,670,8.3,8.5,8.5,8.5,8,8,8.5
+Ch S D St Theresa'S Atonomous College,Andhra Pradesh,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+"Christ University, Bangalore",Karnataka,Arts,654,670,8.3,8.5,7.4,8.2,8.9,8.1,8.8
+"Vivekananda Degree College, Bangalore",Karnataka,Arts,654,670,7.4,8.2,6.5,8.3,7.4,6.5,7.4
+Kristu Jayanti College,Karnataka,Arts,654,670,8.4,8.9,7.7,8.4,8.9,8.1,8.5
+Maharani Lakshmi Ammanni College For Women,Karnataka,Arts,654,670,8,8.6,7,8.6,7.9,7.9,8.2
+Jyoti Nivas College,Karnataka,Arts,654,670,7.8,8.2,7.4,8.3,7.7,7,8.4
+"The National Degree College, Bangalore",Karnataka,Arts,654,670,7.3,8.3,6.3,8.5,7.2,6.9,6.8
+"Mes College Of Arts, Commerce & Science,",Karnataka,Arts,654,670,7.3,8,6.2,8,6.5,6.6,8.2
+"Nmkrv College For Women, Bangalore",Karnataka,Arts,654,670,7.9,7.9,7.3,8.4,8.1,6.9,8.7
+Mount Carmel College,Karnataka,Arts,654,670,8.3,8.3,7.8,8.2,8.3,7.9,9.1
+"Bes Degree College Jayanagar, Bangalore",Karnataka,Arts,654,670,7.4,8,7.7,8.5,7,6,7.3
+Garden City University,Karnataka,Arts,654,670,7.8,7.7,7.5,7.8,8.2,7.3,8.5
+"Ramaiah College Of Arts, Science And Commerce",Karnataka,Arts,654,670,7.9,8.1,7.9,8,8.3,7,8.3
+B.R. Tambakad Arts Commerce And Science First,Karnataka,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+Kle Society'S S. Nijalingappa College,Karnataka,Arts,654,670,7.5,8,6.2,8.1,8.1,6.7,8
+Hasanath College For Women,Karnataka,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+Indian Institute Of Management,Karnataka,Arts,654,670,9.1,9,9,9.1,9.2,9.2,8.9
+National Law School Of India University,Karnataka,Arts,654,670,8.8,9.1,8.6,9.3,8.1,9.1,8.8
+Welcomgroup Graduate School Of Hotel Administration,Karnataka,Arts,654,670,8.8,8.7,8.3,8.6,8.7,9.1,9.3
+Manipal Academy Of Higher Education,Karnataka,Arts,654,670,8.4,8.5,8.2,8.6,8.8,7.8,8.4
+St Joseph'S College,Karnataka,Arts,654,670,8.1,8.4,7.3,8.4,8.3,7.6,8.6
+"St. Aloysius College, Mangalore",Karnataka,Arts,654,670,7.9,8.4,7.1,8.1,8.3,7.1,8.6
+"Jss Academy Of Higher Education & Research,",Karnataka,Arts,654,670,8.2,8.3,7.5,8.6,8.5,8,8
+Bangalore Medical College And Research Institute,Karnataka,Arts,654,670,8.4,8.6,7.7,8.2,7.9,9.3,8.5
+"Jd Institute Of Fashion Technology, Bangalore",Karnataka,Arts,654,670,8.2,8.7,5.5,9.6,7.7,7.7,9.8
+Ks Hegde Medical Academy,Karnataka,Arts,654,670,8.6,9,8.4,9.6,8.4,8.2,8.2
+Manipal Institute Of Technology,Karnataka,Arts,654,670,8.7,8.5,8.5,8.1,9.4,8.1,9.3
+Manipal School Of Architecture And Planning,Karnataka,Arts,654,670,7.4,8.2,6.8,7,8.4,5.6,8.2
+St George College Of Management Science And,Karnataka,Arts,654,670,6.4,7.5,5.5,8,6,5,6.3
+"Aims Institutes, Bangalore",Karnataka,Arts,654,670,7.3,7.8,6.6,8.1,6.5,7.2,7.3
+Indian Academy Group Of Institutions,Karnataka,Arts,654,670,7.9,8.6,7.6,8.5,7.5,7.8,7.6
+Kasturba Gandhi Degree And Pg College For,Telangana,Arts,654,670,8,8.1,7,8.3,8.6,7.1,8.8
+"Nizam College, Hyderabad",Telangana,Arts,654,670,8.2,8.3,7.5,8.6,8.3,7.6,8.7
+A.V. College Of Arts Science And Commerce,Telangana,Arts,654,670,8,8.1,6.3,8.1,8.7,7.8,8.9
+Osmania University College For Women,Telangana,Arts,654,670,8.2,8,8.4,8.7,8.5,6.5,9
+"Loyola Academy Degree And Pg College, Secunderabad",Telangana,Arts,654,670,8.1,8.5,7.2,8.4,8.5,7.7,8.4
+"St Ann'S College For Women, Hyderabad",Telangana,Arts,654,670,8.1,8.6,6.9,8.7,8.5,7.7,8.4
+"St Francis College For Women, Hyderabad",Telangana,Arts,654,670,8.5,8.9,7.2,8.5,8.9,8.6,9
+Sarojini Naidu Vanita Mahavidyalaya,Telangana,Arts,654,670,9.4,9.8,9.8,8.5,9.5,9,9.5
+Raja Bahadur Venkat Rama Reddy Women'S College,Telangana,Arts,654,670,8.2,7.8,7.6,8.6,8.3,7.9,8.7
+Indian Institute Of Technology,Telangana,Arts,654,670,8.5,8.7,8,8.7,8.5,8.3,8.6
+University Of Hyderabad,Telangana,Arts,654,670,8.4,8.7,7.6,8.5,9,7.5,8.8
+National Institute Of Technology,Telangana,Arts,654,670,8.4,8.6,7.9,8.2,8.5,8.6,8.4
+Icfai Foundation For Higher Education,Telangana,Arts,654,670,8.2,8.3,7.5,8.1,8.6,7.8,8.9
+International Institute Of Information Technology,Telangana,Arts,654,670,8.3,9,8.2,8.5,7.8,9.2,6.9
+Jawaharlal Nehru Technological University,Telangana,Arts,654,670,8,8.3,7.7,7.8,8.3,7.6,8.3
+Icfai Business School,Telangana,Arts,654,670,8.2,8.2,8,8.1,8.5,7.8,8.7
+Jawaharlal Nehru Architecture And Fine Arts University,Telangana,Arts,654,670,6.5,7.9,4.7,7.1,7.1,6,6.4
+Osmania University,Telangana,Arts,654,670,7.9,8.3,7.5,8,8,7.7,7.9
+Kakatiya University,Telangana,Arts,654,670,7.2,7.4,6.8,7.6,7.2,6.8,7.4
+Directorate Of Sorghum Research,Telangana,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+"St Joseph'S Degree And Pg College, Hyderabad",Telangana,Arts,654,670,7.8,8.2,6.4,8.4,7.5,8,8.1
+"Anurag University, Hyderabad",Telangana,Arts,654,670,8.3,8.5,7.5,8.2,8.9,8,8.4
+National Academy Of Agricultural Research Management,Telangana,Arts,654,670,9.4,9.7,9.4,9.3,9.7,9,9.5
+Dr. B.R. Ambedkar Open University,Telangana,Arts,654,670,6.7,7.3,5.6,7.8,7.2,5.5,6.8
+Maulana Azad National Urdu University,Telangana,Arts,654,670,7.8,7,8.3,8.1,8.6,7.1,7.9
+Birla Institute Of Technology And Science,Telangana,Arts,654,670,9,9,8.4,8.8,9.4,9.1,9.4
+English And Foreign Languages University,Telangana,Arts,654,670,8,9,7.7,8.8,7.8,7,7.7
+"Ams College Of Teacher Education, Hyderabad",Telangana,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+"Mahindra University, Hyderabad",Telangana,Arts,654,670,8.8,9.1,8.6,9,9.1,7.8,8.9
+"Davv Mateshwari Sugni Devi Girls College, Indore",Madhya Pradesh,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+Islamia Karimia College,Madhya Pradesh,Arts,654,670,5.9,6,5.5,8,5.5,4.5,6
+Institute For Excellence In Higher Education,Madhya Pradesh,Arts,654,670,7.2,7.9,6.5,7.9,7,6.7,7.4
+Government M L B Girls Pg College,Madhya Pradesh,Arts,654,670,6.9,7.1,6.5,7.4,6.5,5.8,7.8
+"Government Maharani Laxmi Bai Girls Pg College,",Madhya Pradesh,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+Barkatullah University,Madhya Pradesh,Arts,654,670,6.9,7.3,6.1,7.4,6.9,6,7.5
+Atal Bihari Vajpayee Hindi Vishwavidyalaya,Madhya Pradesh,Arts,654,670,7.7,8.3,6.3,8.7,7.3,7.8,7.9
+Madhya Pradesh Bhoj (Open) University,Madhya Pradesh,Arts,654,670,7.8,8.6,7.4,8.7,7.5,7.6,7.2
+"Rajeev Gandhi College, Bhopal",Madhya Pradesh,Arts,654,670,6.7,7,5.9,7.3,7.1,5.6,7.2
+"Rkdf University, Bhopal",Madhya Pradesh,Arts,654,670,7.6,8,7,7.8,8,6.5,8.2
+"Govt Girls Pg College, Chhatarpur",Madhya Pradesh,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+"Indore Christian College, Indore",Madhya Pradesh,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+"Government Hamidia Arts And Commerce College, Bhopal",Madhya Pradesh,Arts,654,670,7.4,7.9,5.5,8.8,8.1,6.3,8
+Indian Institute Of Technology,Madhya Pradesh,Arts,654,670,8,8.4,7.6,8.1,7.7,7.8,8.4
+Indian Institute Of Forest Management,Madhya Pradesh,Arts,654,670,9,9,9.1,9,9.3,8.5,9.1
+Prestige Institute Of Management And Research,Madhya Pradesh,Arts,654,670,7.9,8.2,7,8.4,7.3,7.7,8.5
+Institute Of Business Management & Research,Madhya Pradesh,Arts,654,670,8.4,8.3,8,8.6,9,7.8,8.9
+"M.B. Khalsa College, Indore",Madhya Pradesh,Arts,654,670,6.6,6.7,5.2,7.8,7.1,5.7,7
+"Amity University, Gwalior",Madhya Pradesh,Arts,654,670,8.6,8.8,8.5,8.4,9.3,8,8.3
+"Devi Ahilya Vishwavidyalaya, Indore",Madhya Pradesh,Arts,654,670,7.5,8,6.5,7.8,7.5,7,7.9
+"Altius Institute Of Universal Studies, Indore",Madhya Pradesh,Arts,654,670,9,9,8,8.2,8,7.5,8.1
+Regional Institute Of Education,Madhya Pradesh,Arts,654,670,8.6,9,8.3,8.5,8.9,8.4,8.2
+Indira Gandhi National Tribal University,Madhya Pradesh,Arts,654,670,7.5,7.5,7.3,8.4,7.9,5.9,7.9
+Awadhesh Pratap Singh University,Madhya Pradesh,Arts,654,670,7.1,7.9,6.5,8.1,7.2,5.3,7.3
+"Career College, Bhopal",Madhya Pradesh,Arts,654,670,8.3,8.4,7.6,8.7,8.3,8.4,8.3
+Jagran Lakecity University,Madhya Pradesh,Arts,654,670,8,8,7.9,7.8,8.6,7.4,8.1
+Lnct University,Madhya Pradesh,Arts,654,670,9,9,8.8,9.3,8.8,8.9,8.9
+"Avantika University, Ujjain",Madhya Pradesh,Arts,654,670,9.1,9.3,8.5,9.3,8.5,9.5,9.2
+Pandit S. N. Shukla University Shahdol,Madhya Pradesh,Arts,654,500,8.1,8.2,7.7,8.5,8.2,7.4,8.4
+"St Joseph'S College Devagiri, Calicut",Kerala,Arts,654,670,8.4,8.8,7.7,8.7,8.7,7.4,9
+Sacred Heart College,Kerala,Arts,654,670,8.5,8.9,7.5,8.6,8.8,8,9.1
+"St Teresa'S College (Autonomous), Ernakulam",Kerala,Arts,654,670,8.4,8.9,7.4,9,8.2,7.7,9.3
+"Government College, Kasaragod",Kerala,Arts,654,670,8.2,8.3,7.4,9.1,8.7,6.6,9
+"St. Albert'S College, Ernakulam",Kerala,Arts,654,670,7.1,7.9,6.4,7.7,7,6.5,6.9
+"Government Victoria College, Palakkad",Kerala,Arts,654,670,8,8.5,7.4,8.8,7.5,6.3,9.3
+"Gems Arts And Science College, Malappuram",Kerala,Arts,654,670,7.8,8.2,6.5,8.3,8.3,6.2,9.1
+"Av Abdurahiman Haji Arts & Science College,",Kerala,Arts,654,670,5.4,6.8,3.8,6,6.8,2.8,6
+"Maharaja'S College, Ernakulam",Kerala,Arts,654,670,7.8,8.4,7.3,8.6,8.2,5.4,8.8
+"Government Arts College, Thiruvananthapuram",Kerala,Arts,654,670,7.8,9.3,6.3,9,8,6.5,7.5
+Indian Institute Of Management,Kerala,Arts,654,670,8.9,8.9,8.9,9.1,9.1,9.1,8.3
+"Trivandrum University College, Thiruvananthapuram",Kerala,Arts,654,670,8.5,9.2,8,8.6,9,7.5,8.6
+"Mar Ivanios College, Thiruvananthapuram",Kerala,Arts,654,670,8.3,8.7,8.1,8.7,8.8,6.6,9
+Rajagiri College Of Social Sciences,Kerala,Arts,654,670,8.5,8.8,8.5,8.8,8.5,8,8.1
+Mahatma Gandhi University,Kerala,Arts,654,670,7.7,8,7.5,8,8,6.2,8.2
+"St Thomas' College, Thrissur",Kerala,Arts,654,670,7.4,8,7,8.1,7,6.6,7.9
+Calicut University,Kerala,Arts,654,670,7,7.5,6.2,7.5,7.4,5.4,7.9
+St. Berchmans College,Kerala,Arts,654,670,8.4,8.6,8.2,8.6,8.6,7.7,8.5
+"Mahatma Gandhi College, Trivandrum",Kerala,Arts,654,670,8.1,8.7,7.5,8.6,8.8,5.9,8.9
+"Farook College, Kozhikode",Kerala,Arts,654,670,8.1,8.7,8.1,8.5,8.5,5.8,9
+"Newman College, Thodupuzha",Kerala,Arts,654,670,7.2,8.4,5.1,7.8,8,6.6,7
+T.K.M. College Of Arts And Science,Kerala,Arts,654,670,8,8.1,7.5,8.1,8.3,7.5,8.6
+"Christ College Irinjalakuda, Thrissur",Kerala,Arts,654,670,8,8.3,7.7,8.2,8.4,7.2,8.3
+"Bishop Vayalil Memorial Holy Cross College, Kottayam",Kerala,Arts,654,670,7.6,8.3,6.6,9,7.7,7.3,6.7
+"St. Mary'S College Sulthan Bathery, Sulthan Batheri",Kerala,Arts,654,670,6.8,7.8,6.9,6.8,7.5,3.8,7.8
+"Scms Cochin School Of Business, Cochin",Kerala,Arts,654,670,7.5,8,8.1,7.4,8.3,7.2,6.1
+"Mar Thoma College, Tiruvalla",Kerala,Arts,654,670,7.2,7.6,6.7,8.3,7.4,5.2,7.7
+Scms School Of Technology And Management,Kerala,Arts,654,670,7.8,7.9,7.7,8.4,7.5,8.3,7.2
+"Nirmalagiri College, Kannur",Kerala,Arts,654,670,8,9.3,7.3,8.1,9,6.7,7.8
+Dc School Of Management And Technology,Kerala,Arts,654,670,7.7,7.4,7.1,7.9,8,7.2,8.5
+"Banasthali Vidyapith, Jaipur",Rajasthan,Arts,654,670,8.5,8.8,8.2,8.9,8.6,7.9,8.8
+"St Xaviers College, Jaipur",Rajasthan,Arts,654,670,7.6,8.2,7.1,8.3,7.8,6,8.4
+Jaipur National University,Rajasthan,Arts,654,670,7.5,7.9,7,7.7,7.8,6.7,7.6
+"Kanoria Pg Mahila Mahavidyalaya, Jaipur",Rajasthan,Arts,654,670,7.7,8,7.9,7.8,8.3,5.8,8.2
+Jayoti Vidyapeeth Women'S University,Rajasthan,Arts,654,670,7.6,7.7,8.4,7.9,7.7,6.4,7.4
+"Ss Jain Subodh Pg College, Jaipur",Rajasthan,Arts,654,670,7.6,8.2,6.5,8.4,8,6.7,7.6
+"Maheshwari Girls P.G. College, Jaipur",Rajasthan,Arts,654,670,9.5,8.2,7.4,8.2,8,7.5,8.1
+Iis (Deemed To Be University),Rajasthan,Arts,654,670,8.3,8.6,8.5,8.6,8,7.9,8.4
+Birla Institute Of Technology And Science,Rajasthan,Arts,654,670,8.9,8.8,8.2,8.8,9,9,9.3
+National Law University,Rajasthan,Arts,654,670,8.4,8.8,8.1,7.5,8.6,8.8,8.5
+Institute Of Hotel Management And Catering,Rajasthan,Arts,654,670,8.4,8.5,8.5,8.5,7.5,8.8,8.8
+Indian Institute Of Technology,Rajasthan,Arts,654,670,8.2,8,7.9,8.2,8.2,8,8.7
+Malaviya National Institute Of Technology,Rajasthan,Arts,654,670,8.2,8.2,7.4,8,8.7,8.2,8.5
+Madhav University,Rajasthan,Arts,654,670,7.8,7.9,7.5,8.2,7.9,7.3,7.8
+Janardan Rai Nagar Rajasthan Vidyapeeth University,Rajasthan,Arts,654,670,7.8,8.3,7.5,8.3,7.9,7.3,7.5
+"Amity University, Jaipur",Rajasthan,Arts,654,670,8,7.8,7.6,7.8,8.9,7.4,8.7
+"Poddar Group Of Institutions, Jaipur",Rajasthan,Arts,654,670,7.7,8.3,7.1,8.6,7.4,6.9,8
+"Lucky Institute Of Professional Studies, Jodhpur",Rajasthan,Arts,654,670,7.7,7.8,8,8.3,7.7,6,8.2
+Jai Narain Vyas University,Rajasthan,Arts,420,480,6.2,6.9,5.2,7.1,6.4,4.9,6.4
+Mahatma Jyoti Rao Phoole University,Rajasthan,Arts,654,670,6.8,6.9,6.2,7.4,7.7,6.4,6.4
+Career Point University,Rajasthan,Arts,654,670,8.3,8.4,7.9,8.4,8.4,7.6,8.9
+"Iihmr University, Jaipur",Rajasthan,Arts,654,670,8.5,8.6,8.1,8.5,8.8,8.5,8.2
+"Spc Education Center, Jaipur",Rajasthan,Arts,654,670,10,8.2,7.4,8.2,8,7.5,8.1
+"St Wilfreds College For Girls, Jaipur",Rajasthan,Arts,654,670,7.5,8.4,6.5,8.3,7.4,6.7,7.5
+Mewar University,Rajasthan,Arts,654,670,8,7.9,7.1,8.1,8.8,7.3,8.6
+"Alankar P.G. Girls College, Jaipur",Rajasthan,Arts,654,670,9,9,9,9,9,9,9
+University Of Rajasthan,Rajasthan,Arts,654,670,7.6,8.1,7.1,8.1,7.9,6.5,7.8
+"Singhania University, Jhunjhunu",Rajasthan,Arts,654,670,7.1,7.1,6.7,7.1,7.1,7,7.3
+Manipal University,Rajasthan,Arts,654,670,8.4,8.2,8.3,8.2,9.2,7.7,9
+Mehr Chand Mahajan Dayanand Anglo Vedic College,Haryana,Arts,654,670,8.2,8.4,8,8.5,8.2,7.6,8.4
+Dav College,Haryana,Arts,654,670,8,8.4,7.4,8.3,8,6.8,8.8
+"Lingaya'S Vidyapeeth, Faridabad",Haryana,Arts,654,670,7.8,8,7.5,8.1,7.7,7.3,8.1
+Manav Rachna International Institute Of Research And,Haryana,Arts,654,670,7.5,7.4,7.3,7.5,8.3,6.6,7.6
+"Post Graduate Government College For Girls, Chandigarh",Haryana,Arts,654,670,8.1,8.6,8.4,8.9,8.2,6.1,8.5
+"Post Graduate Government College, Chandigarh",Haryana,Arts,654,670,7.7,8.4,7.2,8.4,7.5,6.5,7.9
+Panjab University,Haryana,Arts,654,670,7.7,8.2,7.7,8,7.7,6.5,8.2
+Maharshi Dayanand University,Haryana,Arts,654,670,7.8,8,7.7,8,8.4,6.6,8
+National Institute Of Technology,Haryana,Arts,654,670,8.2,8,7.4,8.1,8.2,8.6,8.6
+"Government Home Science College, Chandigarh",Haryana,Arts,654,670,9.1,8.7,9.3,9.3,8.7,8.7,9.7
+Chandigarh University,Haryana,Arts,654,670,8.6,8.6,8.2,8.4,9,8.6,8.8
+Apeejay Stya University,Haryana,Arts,654,670,7.9,8.2,7.5,7.9,7.5,7.7,8.3
+"University School Of Business, Chandigarh University",Haryana,Arts,654,670,9.1,9.1,8.8,9.1,9.2,9.3,8.9
+Kurukshetra University,Haryana,Arts,654,670,7.5,8.1,7,8,7.7,6.5,7.7
+"Arya Post Graduate College, Panipat",Haryana,Arts,654,670,7.8,8.4,6.8,8.8,8,6.3,8.6
+Guru Jambheshwar University Of Science And Technology,Haryana,Arts,654,670,7.7,7.7,7.3,7.5,8.9,6.5,8
+"J.C. Bose University Of Science And Technology,",Haryana,Arts,654,670,7.3,7.7,6.5,7.4,6.6,7.7,7.6
+"Srm University Delhi Ncr, Sonepat",Haryana,Arts,654,670,7.8,8,7.5,7.9,8.1,7.6,7.9
+"Dharamjeevi Institute Of Professional Education, Kurukshetra",Haryana,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+Goswami Ganesh Dutt Sanatan Dharama College,Haryana,Arts,654,670,8.1,8.6,7.6,8.5,8.1,7.1,8.8
+"Ashoka University, Sonepat",Haryana,Arts,654,670,8.6,8.6,8.6,8.9,8.7,8.3,8.5
+"Gurugram University, Gurgaon",Haryana,Arts,654,670,8.2,8.6,7.4,8.4,8.6,8,8.1
+"Institute Of Apparel Management, Gurgaon",Haryana,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+"Pdm University, Bahadurgarh, Bahadurgarh",Haryana,Arts,654,670,7.4,7.1,7.6,7.4,7.5,7.1,7.7
+Bml Munjal University,Haryana,Arts,654,670,8.1,8,8,7.9,8.5,7.8,8.3
+"Amity University, Gurgaon",Haryana,Arts,654,670,7.7,7.8,7.1,7.6,8.6,7.1,8.1
+O. P. Jindal Global University,Haryana,Arts,654,670,8.3,8.4,8.2,8.3,8.8,7.5,8.7
+"Iilm University, Gurgaon",Haryana,Arts,654,670,8.4,8.2,7.4,8.5,8.6,8.6,8.8
+"Starex University, Gurgaon",Haryana,Arts,654,670,8.8,9.1,9.1,8.7,8.6,8.5,8.7
+Modern Vidya Niketan,Haryana,Arts,654,670,7,7.2,6.4,7.7,7,6.8,6.8
+"St Xavier'S College, Ahmedabad",Gujarat,Arts,654,670,8.1,8.4,7.4,8.6,8.3,7.3,8.7
+"Shri Hk Arts College, Ahmedabad",Gujarat,Arts,654,670,7.8,8.2,7.8,8.2,7.8,7,7.8
+"Cu Shah Arts College, Ahmedabad",Gujarat,Arts,654,670,4.8,8,1,6,4,5,5
+"Umiya Arts And Commerce College For Girls,",Gujarat,Arts,654,670,8.3,8.2,7.4,9,8,7,9
+"Rh Patel Arts And Commerce College, Ahmedabad",Gujarat,Arts,654,670,6.7,7.7,6.7,7.3,6,4.7,7.7
+"Ld Arts College, Ahmedabad",Gujarat,Arts,654,670,6.7,8.4,5,8.4,7.9,3.3,6.9
+"Gujarat Arts And Commerce College, Ahmedabad",Gujarat,Arts,654,670,8,8.4,6.3,9.1,7.5,7.1,9.6
+Gujarat Vidyapith,Gujarat,Arts,654,670,8.4,9,7.9,9.1,8.4,7.6,8.1
+"Shri Sahajanand Arts & Commerce College, Ahmedabad",Gujarat,Arts,654,670,5.9,6.7,4.1,7.7,5.6,4.2,7.1
+Anand Arts College,Gujarat,Arts,654,670,8.7,9,9,8.5,9,8,8.5
+Gujarat National Law University,Gujarat,Arts,654,670,8.5,8.6,8,8.7,9.3,8.1,8.1
+Indian Institute Of Technology,Gujarat,Arts,654,670,8.4,8.3,8.4,8.8,9.1,7.2,8.8
+Maharaja Sayajirao University Of Baroda,Gujarat,Arts,654,670,7.9,8.3,7,8.4,8,7.2,8.4
+Bhavan'S Sheth Ra Shah College Of Arts,Gujarat,Arts,654,670,6.8,8.2,4.5,8.1,7.5,5,7.3
+Dr Babasaheb Ambedkar Open University,Gujarat,Arts,654,670,7.7,8.5,5.5,8.5,8,7.5,8.1
+"Christ College, Rajkot",Gujarat,Arts,654,670,8.2,8.6,7.4,9.2,9,6.6,8.2
+"Ahmedabad University, Ahmedabad",Gujarat,Arts,654,670,8.6,9,7.6,8.9,9.2,8,9
+Navrachana University,Gujarat,Arts,654,670,7.7,7.7,7.4,8.2,8,7.2,7.8
+Sardar Patel University,Gujarat,Arts,654,670,7.8,8.6,7,8.5,7.7,7.3,7.8
+"Arvindbhai Patel Institute Of Environmental Design, Vallabh",Gujarat,Arts,654,670,6.9,7.2,5.8,7.4,7.4,5.4,8
+Gujarat Arts And Science College,Gujarat,Arts,654,670,7.5,8.3,6.4,7.4,8.6,6.1,7.9
+Times Business School,Gujarat,Arts,654,670,8.1,8,7,8.5,8,8,9
+"Cept University, Ahmedabad",Gujarat,Arts,654,670,8.2,8.6,7.7,8.4,8.3,8.1,8
+Nirma University,Gujarat,Arts,654,670,8.4,8.6,8,8.4,9.1,8.1,8.2
+Karnavati University,Gujarat,Arts,654,670,8.9,8.6,8.2,9.3,9.4,8.6,9.3
+Pandit Deendayal Petroleum University [Pdpu] / (Energy,Gujarat,Arts,654,670,8.6,8.3,8.3,8.1,9.4,8.1,9.4
+Children'S University,Gujarat,Arts,654,670,8.1,8.3,7.7,8.8,7.7,7.4,8.5
+"Auro University, Surat",Gujarat,Arts,654,670,8.3,8.2,8.5,8.6,8.7,7.2,8.6
+"Atmiya University, Rajkot",Gujarat,Arts,654,670,8.1,8.8,7.5,8.6,8.4,7.4,7.9
+Ganpat University,Gujarat,Arts,654,670,8.1,8.2,7.2,8.1,8.5,7.8,8.6
+Kamla Nehru College For Women,Punjab,Arts,654,670,7.9,8.5,8,8.2,8.3,5.8,8.8
+Mehr Chand Mahajan Dayanand Anglo Vedic College,Punjab,Arts,654,670,8.2,8.4,8,8.5,8.2,7.6,8.4
+Dav College,Punjab,Arts,654,670,8,8.4,7.4,8.3,8,6.8,8.8
+"Post Graduate Government College For Girls, Chandigarh",Punjab,Arts,654,670,8.1,8.6,8.4,8.9,8.2,6.1,8.5
+"Post Graduate Government College, Chandigarh",Punjab,Arts,654,670,7.7,8.4,7.2,8.4,7.5,6.5,7.9
+Panjab University,Punjab,Arts,654,670,7.7,8.2,7.7,8,7.7,6.5,8.2
+Punjab Agricultural University,Punjab,Arts,654,670,7.8,8.5,7.5,8.1,8.5,6,8.1
+Thapar Institute Of Engineering And Technology,Punjab,Arts,654,670,8.3,8,8.1,7.7,8.9,8.2,8.8
+Indian Institute Of Technology,Punjab,Arts,654,670,8.5,8.5,8.1,8.2,9.1,8.4,8.9
+"Government Home Science College, Chandigarh",Punjab,Arts,654,670,9.1,8.7,9.3,9.3,8.7,8.7,9.7
+Chandigarh University,Punjab,Arts,654,670,8.6,8.6,8.2,8.4,9,8.6,8.8
+Gian Jyoti Institute Of Management And Technology,Punjab,Arts,654,670,8.2,8.6,7.4,8.7,8.1,7.6,8.5
+"University School Of Business, Chandigarh University",Punjab,Arts,654,670,9.1,9.1,8.8,9.1,9.2,9.3,8.9
+"Chitkara University, Chitkara Business School",Punjab,Arts,654,670,8.5,8.9,7.4,8.5,9.1,8.5,8.6
+I.K. Gujral Punjab Technical University,Punjab,Arts,654,670,8.1,8,7.4,8.7,8.3,7.7,8.7
+"Khalsa College, Amritsar",Punjab,Arts,654,670,7.9,8.3,7.7,7.9,8.3,6.5,8.4
+"Bbk Dav College For Women, Amritsar",Punjab,Arts,654,670,8.8,9,8.5,9.5,8.2,7.8,9.5
+"Doaba College, Jalandhar",Punjab,Arts,654,670,8.7,9.1,8.4,9.4,8.6,8.1,8.5
+Sant Longowal Institute Of Engineering And Technology,Punjab,Arts,654,670,7.6,7.7,7.1,7.5,8.4,6.5,8.1
+Goswami Ganesh Dutt Sanatan Dharama College,Punjab,Arts,654,670,8.1,8.6,7.6,8.5,8.1,7.1,8.8
+"Dav College, Jalandhar",Punjab,Arts,654,670,7.5,8,6.4,7.9,7.5,7.5,7.7
+"Chitkara University, Chitkara School Of Mass Communication",Punjab,Arts,654,670,8.5,8.2,7.4,8.2,8,7.5,8.1
+"Rimt University, Gobindgarh",Punjab,Arts,654,670,7.6,7.9,7.3,7.8,8,6.7,7.8
+Kanya Mahavidyalaya,Punjab,Arts,654,670,9.8,9.8,9.7,9.8,9.7,9.6,9.9
+"Dav College, Amritsar",Punjab,Arts,654,670,7.5,8,6.6,8.3,6.8,7.3,7.9
+"Shanti Devi Arya Mahila College, Gurdaspur",Punjab,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+Chitkara University,Punjab,Arts,654,670,8.5,8.4,7.7,8.5,8.9,8.7,8.7
+"Guru Kashi University, Bathinda",Punjab,Arts,654,670,7.5,7.4,7.2,8,7.2,7.2,7.8
+"Dav University, Jalandhar",Punjab,Arts,654,670,7.9,8.4,7,8.4,7,8,8.5
+"Presidency University, Kolkata",West Bengal,Arts,654,670,8.1,8.8,7.3,8.6,8.8,6.5,8.3
+St. Xavier'S College,West Bengal,Arts,654,670,8.3,8.8,7.4,8.4,8.6,7.8,8.8
+Lady Brabourne College,West Bengal,Arts,654,670,7.6,8.9,7,8.3,7.9,6.3,7
+Jadavpur University,West Bengal,Arts,654,670,8.4,9,7.6,8.5,8.1,8.4,9
+"Bethune College, Kolkata",West Bengal,Arts,654,670,8,9.1,7.3,8.8,7.9,6.8,8.1
+"Loreto College, Kolkata",West Bengal,Arts,654,670,8.3,9.3,6.8,9.3,8.1,7.6,8.6
+"Scottish Church College, Kolkata",West Bengal,Arts,654,670,7.8,8.3,7.8,8.3,8.1,6.3,8.2
+"Gokhale Memorial Girls' College, Kolkata",West Bengal,Arts,654,670,7.8,8.8,7.2,8.8,7.1,7.2,7.9
+"Asutosh College, Kolkata",West Bengal,Arts,654,670,7.5,8.3,6.5,8.4,7.7,5.6,8.5
+Maulana Azad College,West Bengal,Arts,654,670,7.8,8.8,7.7,8.4,8.3,5.5,7.9
+"Sivanath Sastri College, Kolkata",West Bengal,Arts,654,670,7.2,8.3,5.9,8.2,6.6,6.4,7.8
+"Shri Shikshayatan College, Kolkata",West Bengal,Arts,654,670,8.2,8.6,7.6,8.7,8.5,7.6,8.3
+"Acharya Jagadish Chandra Bose College, Kolkata",West Bengal,Arts,654,670,6.4,7.1,5.3,7.6,6.9,4.7,6.7
+"Ramakrishna Mission Vidyamandira, Howrah",West Bengal,Arts,654,670,8.8,9.3,8.6,9.4,8.9,7.8,8.6
+Vidyasagar College,West Bengal,Arts,654,670,6.9,8.1,6.2,8.1,7.3,3.9,7.8
+"Rammohan College, Kolkata",West Bengal,Arts,654,670,7.4,8,7.3,8.4,7,6.1,7.7
+Acharya Prafulla Chandra College,West Bengal,Arts,654,670,7.5,8.2,6.5,8.3,8,5.8,7.9
+"Rani Birla Girl'S College, Kolkata",West Bengal,Arts,654,670,5.6,7,4,8,3,6.5,5
+"Sarsuna College, Kolkata",West Bengal,Arts,654,670,7.1,8.1,5.8,8.3,7.9,4.8,7.4
+Acharya Girish Chandra Bose College,West Bengal,Arts,600,670,5.8,7.3,4.3,6.9,6.5,3.7,6.2
+Indian Institute Of Technology,West Bengal,Arts,654,670,8.5,8.8,7.2,8.2,8.9,8.8,9
+Indian Institute Of Management,West Bengal,Arts,654,670,8.9,8.9,8.8,9,8.8,9.1,8.5
+Indian Institute Of Engineering Science And Technology,West Bengal,Arts,654,670,8,8.3,7.7,7.9,7.9,7.5,8.4
+"University Of Calcutta, Kolkata",West Bengal,Arts,654,670,7.7,8.6,6.9,8.5,7.7,6.5,7.7
+National Institute Of Technology,West Bengal,Arts,654,670,7.7,8,6.8,7.8,7.5,7.8,8.4
+Guru Nanak Institute Of Hotel Management,West Bengal,Arts,654,670,8,8.3,7.3,8,8.2,8.4,7.9
+"George Group Of Colleges, Kolkata",West Bengal,Arts,654,670,7.8,8.7,6.4,8.6,8,7.5,7.5
+Indian Institute Of Social Welfare And Business,West Bengal,Arts,654,670,7.7,8.6,6.5,8.3,6.9,8,8
+"Kd College Of Commerce & General Studies,",West Bengal,Arts,654,670,7.3,8.8,7.8,6.4,8.2,5.3,7
+"Dwijendralal College, Nadia",West Bengal,Arts,654,670,7.3,8.1,6.9,8.3,7.6,5.1,7.7
+Indian Institute Of Technology,Orissa,Arts,654,670,7.8,8.1,8,8,7.8,7.8,7.2
+Kalinga Institute Of Industrial Technology,Orissa,Arts,654,670,8.6,8.4,8.1,8.2,9.2,8.6,9
+Bjb Autonomous College,Orissa,Arts,654,670,7.4,8.3,6.8,7.9,7.4,5.9,7.9
+"Rama Devi Women'S University, Bhubaneswar",Orissa,Arts,654,670,7.9,8.5,7.3,8.7,8.3,6,8.7
+"Maharishi College Of Natural Law, Bhubaneswar",Orissa,Arts,654,670,7.5,8.6,6.4,8.8,7.8,4.7,8.9
+"D.R. Nayapalli College, Bhubaneswar",Orissa,Arts,654,670,8.3,7.8,8.5,9,7.5,7.5,9.3
+Satwik Institute Of Professional Studies,Orissa,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+Institute Of Media Studies,Orissa,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+Directorate Of Research On Woman In Agriculture,Orissa,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+"Dhenkanal Autonomous College, Dhenkanal",Orissa,Arts,654,670,7.2,8,6.7,7.8,7.4,6.4,6.9
+National Institute Of Technology,Orissa,Arts,654,670,8.4,8.3,7.9,7.8,9.1,8.2,8.9
+Siksha 'O' Anusandhan University,Orissa,Arts,654,670,8.3,8.6,7.6,8.3,8.7,8,8.5
+Xavier University,Orissa,Arts,654,670,8.2,8.7,7.8,8.4,9.2,6.8,8.4
+Regional College Of Management,Orissa,Arts,654,670,7.8,8.4,7.1,8.5,8.2,6.9,7.9
+Veer Surendra Sai University Of Technology,Orissa,Arts,654,670,7.9,8.2,7.7,7.9,7.4,7.7,8.4
+Regional Institute Of Education,Orissa,Arts,654,670,8.3,8.5,8,8.2,8,8.3,8.9
+Biju Pattnaik College Of Science & Education,Orissa,Arts,654,670,8,8.5,6.9,8.6,8,7.5,8.4
+Sri Sri University,Orissa,Arts,654,670,7.1,7.3,6.7,7,7.3,6.3,8.2
+"Khallikote University -[Kub], Berhampur",Orissa,Arts,654,670,8.6,8.6,8.1,8.7,9,8.2,8.7
+Bijupattanaik College Of Hotel Management Tourism And,Orissa,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+Indian Institute Of Management,Orissa,Arts,654,670,8.8,8.8,8.7,9,8.8,9.1,8.5
+Birla Global University,Orissa,Arts,654,670,8.3,8.8,8.1,7.8,8.8,8.1,8.4
+Centurion University Of Technology And Management,Orissa,Arts,654,670,7.4,7.7,6.8,7.8,7.8,6.6,7.8
+Attitude Business School,Orissa,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+Aiph University,Orissa,Arts,654,670,8.3,8.5,7.5,8.5,8.5,8.5,8.5
+"Udayanath College Of Science And Technology, Cuttack",Orissa,Arts,654,670,7.3,8.3,6.9,7.8,8,5.3,7.5
+Niis Institute Of Information Science & Management,Orissa,Arts,654,670,9,9.2,8.7,9.2,9.2,9,8.7
+Giet University,Orissa,Arts,654,670,7.9,8.3,7.3,7.9,8.5,7.8,7.7
+"Asbm University, Bhubaneswar",Orissa,Arts,654,670,8.1,8.4,8,8.4,8.5,7.3,8.1
+Madhusudan Institute Of Cooperative Management,Orissa,Arts,654,670,5.5,7,6.5,8,4,3.5,4
+Indian Institute Of Management,Uttarakhand,Arts,654,670,8.7,8.6,8.7,8.9,8.9,8.5,8.3
+Greenway Institute Of Management Studies,Uttarakhand,Arts,654,670,6.1,7,5.5,6.5,6.5,4,7
+Ims Unison University,Uttarakhand,Arts,654,670,8.2,8.2,8,8.5,8.5,7.5,8.2
+Doon Business School,Uttarakhand,Arts,654,670,7.6,8,7,8.1,7.4,7.4,7.7
+University Of Petroleum And Energy Studies,Uttarakhand,Arts,654,670,8.1,8.1,7.8,7.9,8.6,7.7,8.2
+"Institute Of Media Management , Technology &",Uttarakhand,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+"Bishamber Sahai Degree College, Roorkee",Uttarakhand,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+"Directorate Of Coldwater Fisheries Research, Nainital",Uttarakhand,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+"Doon University, Dehradun",Uttarakhand,Arts,654,670,7.2,7.3,7,7.3,7.9,6.3,7.6
+Doon Post Graduate College Of Agriculture Science,Uttarakhand,Arts,654,670,6.7,7.5,6.4,7.6,7,4.9,6.8
+Dit University,Uttarakhand,Arts,654,670,7.8,7.9,7.6,7.6,8.4,7.4,8
+"Patanjali University, Haridwar",Uttarakhand,Arts,654,670,8.2,8.4,8.3,8.4,8.4,7.8,8.1
+"Motherhood University, Roorkee",Uttarakhand,Arts,654,670,8,8.3,7.9,7.6,8,8,8.3
+"Uttaranchal University, Dehradun",Uttarakhand,Arts,654,670,7.5,7.8,6.8,7.7,8.6,6.5,7.5
+Graphic Era University,Uttarakhand,Arts,654,670,8.3,8.2,7.9,8.4,8.6,8.1,8.4
+Graphic Era Hill University,Uttarakhand,Arts,654,670,8.1,7.9,7.8,8.1,8.4,7.7,8.4
+Shri Guru Ram Rai University,Uttarakhand,Arts,654,670,7.6,7.8,7.1,7.9,7.9,7.3,7.7
+"Icfai University, Dehradun",Uttarakhand,Arts,654,670,7.8,8.2,7.5,8.2,7.4,7.3,7.9
+Himgiri Zee University,Uttarakhand,Arts,654,670,7.9,8.5,5.5,9,8,7.7,8.8
+Dev Bhoomi Group Of Institutions,Uttarakhand,Arts,654,670,7.8,8.1,7.1,7.8,8,8,7.8
+Roorkee College Of Engineering,Uttarakhand,Arts,654,670,9.4,9.3,9.2,9.4,9.4,9.3,9.5
+Institute Of Technology And Management,Uttarakhand,Arts,654,670,7.4,7.8,7.5,7.8,5.6,8,7.8
+Bfit Group Of Institutions,Uttarakhand,Arts,654,670,7.5,7.7,7.1,7.7,7.6,7.1,8
+Sardar Bhagwan Singh University,Uttarakhand,Arts,654,670,8.7,8.7,8.3,9.3,9,8.3,8.7
+Uttaranchal College Of Science & Technology,Uttarakhand,Arts,654,670,7.6,8.1,7.9,8,7.9,6.1,7.8
+"Maya Group Of Colleges, Dehradun",Uttarakhand,Arts,654,670,7.3,6.8,7.2,8.3,7.2,6.7,7.3
+"Sai Group Of Institutions, Dehradun",Uttarakhand,Arts,654,670,8.8,9,8,9.3,9,9,8.7
+Hec Group Of Institutions,Uttarakhand,Arts,654,670,9,9,9,9,9,9,9
+"Omkarananda Institute Of Management & Technology- [Oimt],",Uttarakhand,Arts,654,670,7.5,8,6.9,7.6,7.6,7,7.9
+Arya Vidyapeeth College,Assam,Arts,654,670,7.1,7.7,6.5,8.7,7,5,7.4
+"Dispur College, Guwahati",Assam,Arts,654,670,6.1,6.9,4.6,7.4,6.3,4.5,7
+"Guwahati College, Guwahati",Assam,Arts,654,670,6.8,7.1,5.8,7.8,6.6,5.9,7.3
+"B. Borooah College, Guwahati",Assam,Arts,654,670,7.6,8.2,7.3,8.6,7.5,5.8,8.2
+"Handique Girls College, Guwahati",Assam,Arts,654,670,7.8,8.7,7,8.5,8.2,6.2,8.1
+"Lalit Chandra Bharali College, Guwahati",Assam,Arts,654,670,7.1,7.5,6.8,7.8,8.3,5.2,6.8
+"Pragjyotish College, Guwahati",Assam,Arts,654,670,6.5,7.3,5.8,7.6,7.3,4.3,6.9
+Indian Institute Of Technology,Assam,Arts,654,670,8.6,8.6,8.2,8.1,9.1,8.4,8.9
+National Institute Of Technology,Assam,Arts,654,670,8.1,8.1,7.6,7.7,8.3,8.2,8.7
+"Dibrugarh University, Dibrugarh",Assam,Arts,654,670,7.8,7.9,7.7,8,8.4,6.5,8.2
+Tezpur University,Assam,Arts,654,670,8,8.2,8,7.9,8.8,6.7,8.5
+Royal Global University,Assam,Arts,654,670,7.6,7.8,6.6,8,9,6.5,7.7
+Dibrugarh Hanumanbux Surajmal Kanoi College,Assam,Arts,654,670,8,8.6,7.5,8.8,9.2,5.3,8.5
+Assam Don Bosco University,Assam,Arts,654,670,7.8,8.3,7.8,8.1,8.8,6.4,7.3
+Gauhati University,Assam,Arts,654,670,8.2,8.4,7.5,8.7,8.4,7.2,8.7
+Indian Institute Of Information Technology,Assam,Arts,654,670,7.6,8.6,7,7.9,7.9,7.5,6.5
+Assam Down Town University,Assam,Arts,654,670,8.2,8.4,7.6,8.4,8.2,7.8,8.6
+Central Institute Of Technology,Assam,Arts,654,670,7,7.4,5.5,7.7,8.2,5.3,8
+Nerim Group Of Institutions,Assam,Arts,654,670,7.1,7.7,6.1,7.5,7.8,6.9,6.6
+"Assam Women'S University, Jorhat",Assam,Arts,654,670,7.7,8.3,7.3,8.2,6.7,7.5,8.3
+Asian Institute Of Management And Technology,Assam,Arts,654,670,8.2,7.5,8,8.5,8.5,8.1,8.3
+Tata Institute Of Social Sciences,Assam,Arts,654,670,7.7,9,7.7,8.3,7,8,6.3
+Assam Rajiv Gandhi University Of Cooperative Management,Assam,Arts,654,670,8.4,9,7.5,9,8.5,8,8.5
+Anandaram Dhekial Phookan College,Assam,Arts,654,670,8.2,9,7.2,8.8,9.2,6.2,8.6
+Baosi Banikanta Kakati College,Assam,Arts,654,670,8.7,9,9,8.2,8,7.5,8.1
+"Bh College, Barpeta",Assam,Arts,654,670,7.2,7.7,6.6,8.4,7.9,4.4,7.9
+"Bimala Prasad Chaliha College, Kamrup",Assam,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+"Bagadhar Barahma Kishan College, Baksa",Assam,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+"Bahona College, Jorhat",Assam,Arts,654,670,8.3,8.7,8,8.7,8.3,8.3,7.7
+"Bhattadev University, Pathsala",Assam,Arts,654,670,7.2,7.3,5.9,7.5,7.7,7.2,7.8
+"Magadh Mahila College, Patna",Bihar,Arts,654,670,7.8,8.5,7.3,9,8,6.1,7.8
+Anugrah Narayan College,Bihar,Arts,654,670,6.8,7.5,5.4,7.5,7.7,5.5,7.4
+Patna Women'S College,Bihar,Arts,654,670,7.8,8.3,7.3,8.2,8.6,6.2,8.1
+Ram Krishna Dwarika College,Bihar,Arts,654,670,6.9,7.8,6.1,7.7,7,5.1,7.6
+Ram Lakhan Singh Yadav College,Bihar,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+"College Of Commerce, Arts & Science, Patna",Bihar,Arts,654,670,6.9,7.9,4.7,8.1,7.6,5.6,7.3
+Patna University,Bihar,Arts,654,670,7,7.6,6.2,8.2,7.3,5.1,7.4
+"Patna College, Patna",Bihar,Arts,654,670,6.3,7.5,5.3,7.3,6.5,4.6,6.4
+Nalanda Open University,Bihar,Arts,654,670,7.3,9,5.8,8.3,7.2,5.4,7.8
+"Bihar National College, Patna",Bihar,Arts,654,670,6.3,7.7,5.6,7.6,5.8,4.3,6.9
+Indian Institute Of Technology,Bihar,Arts,654,670,8,8.4,7.1,8.1,8.2,7.9,8.2
+"Gaya College, Gaya",Bihar,Arts,654,670,7.1,7.8,6,7.8,7.7,5.6,7.8
+"T.N.B. College, Bhagalpur",Bihar,Arts,654,670,6.9,7.6,6.5,8.1,7,4.2,7.9
+National Institute Of Technology,Bihar,Arts,654,670,7.7,7.9,6.9,7.9,7.3,8,8
+Tilka Manjhi Bhagalpur University,Bihar,Arts,654,670,7.5,7.7,6.8,8.1,7.6,6.4,8.1
+"Maltidhari College, Patna",Bihar,Arts,654,670,8.3,9,9,7,8,7,8.1
+Magadh University,Bihar,Arts,654,670,6,7.1,5,6.9,6.4,4.7,5.8
+"St Xavier'S College Of Education, Patna",Bihar,Arts,654,670,7.8,8,8,8,7,8,8
+"Amity University, Patna",Bihar,Arts,654,670,7.8,8.5,7.2,7.8,7.7,7.8,7.9
+Aryabhatta Knowledge University,Bihar,Arts,654,670,8,8.7,7.1,8.1,8.3,7.6,8.1
+Gopal Narayan Singh University,Bihar,Arts,654,670,8.5,8.6,8.6,8.2,8.9,8.1,8.4
+Anugrah Memorial College,Bihar,Arts,654,670,6.4,7.3,4,9,8,4.3,5.7
+Anugrah Narayan Singh College,Bihar,Arts,654,670,5.8,5,5,6,7.5,5,6
+"B.M.D. College, Vaishali",Bihar,Arts,654,670,7.6,8.7,8,8.3,6.7,7.3,6.7
+"Bhola Prasad Singh College, Gopalganj",Bihar,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+Bhuwaneshwari Dayal College,Bihar,Arts,654,670,7.2,8.2,6.3,8.4,7.6,5.3,7.1
+"Bindeshwar Singh College , Patna",Bihar,Arts,654,670,8.4,9.3,8.7,9.7,8.5,7.8,6.3
+"D.K. College, Buxar",Bihar,Arts,654,670,7.7,8.3,7,8.7,8.7,6.7,7
+"Daudnagar College, Aurangabad",Bihar,Arts,654,670,5.4,7,2,9,5,2.5,7
+Government Jamuna Prasad Verma Post Graduate Arts,Chhattisgarh,Arts,654,670,5.3,6,3,8,5,3,7
+"Government Mahaprabhu Vallabhacharya Post Graduate College, Mahasamund",Chhattisgarh,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+National Institute Of Technology,Chhattisgarh,Arts,654,670,7.4,7.8,6.4,7.5,7,7.7,8.1
+"Mahant Laxminarayan Das College, Raipur",Chhattisgarh,Arts,654,670,6.6,7,4,7.5,7,7,7
+Pt. Ravishankar Shukla University,Chhattisgarh,Arts,654,670,6.1,7,4.8,6.8,6.8,4.1,6.8
+"Kushabhau Thakre Patrakarita Avam Jansanchar Vishwavidyalaya, Raipur",Chhattisgarh,Arts,654,670,7,7.3,7,7,7,6.3,7.3
+"Mats University, Raipur",Chhattisgarh,Arts,654,670,7.4,7.4,7,7.8,7.4,7.2,7.4
+Indian Institute Of Technology,Chhattisgarh,Arts,654,670,7.7,8.1,6.6,7.8,7,7.6,8.8
+"Amity University, Raipur",Chhattisgarh,Arts,654,670,7.8,7.8,8.3,8,8,6.3,8.2
+International Institute Of Information Technology,Chhattisgarh,Arts,654,670,8.2,8.1,8.6,7.6,8.7,7.6,8.6
+"Itm University, Raipur",Chhattisgarh,Arts,654,670,7.4,8,6.4,7,8.3,7.2,7.6
+"Icfai University, Raipur",Chhattisgarh,Arts,654,670,8.6,8.6,8.4,8.8,8.8,8.6,8.4
+Shri Rawatpura Sarkar University,Chhattisgarh,Arts,654,670,8.5,9,8,8.5,8.5,8.5,8.5
+Maharishi University Of Management And Technology Bilaspur,Chhattisgarh,Arts,654,670,6.4,7.5,7,6,7.5,5.3,5
+Aaft University Of Media And Arts,Chhattisgarh,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+"Rungta Group Of Institutions Bhilai Campus, Bhilai",Chhattisgarh,Arts,654,670,8.6,9.1,8.7,7.9,9.2,9.1,7.6
+"Isbm University, Raipur",Chhattisgarh,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+"Disha College Of Management Studies- [Dcms], Raipur",Chhattisgarh,Arts,654,670,8,8,8,8.3,8.3,7.3,8
+Op Jindal University School Of Engineering,Chhattisgarh,Arts,654,670,6.7,7.1,6.4,7,7.1,6.1,6.6
+"Mats School Of Business Studies, Raipur",Chhattisgarh,Arts,654,670,7.3,8.2,5.4,8.2,8.1,7.5,8.1
+"Christ College, Bastar",Chhattisgarh,Arts,654,670,7.7,8.2,7.4,9,8,5,9
+"D.L.S. P.G. College, Bilaspur",Chhattisgarh,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+"Durga Mahavidyalaya, Raipur",Chhattisgarh,Arts,654,670,4.7,5,4,5.3,4.3,3,6.3
+"Ghanshyam Singh Arya Kanya Mahavidyalaya, Durg",Chhattisgarh,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+"Government Db Girl'S Post Graduate College, Raipur",Chhattisgarh,Arts,654,670,3.9,6,7.4,4,4,2.5,3
+"Government Digvijay Autonomous College, Rajnandgaon",Chhattisgarh,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+"Government Maharishi Valmiki College, Kanker",Chhattisgarh,Arts,713,773,7.9,8.2,7.4,8.2,8,7.5,8.1
+"Government Ram Bhajan Rai Nes College, Jashpur",Chhattisgarh,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+"Government Shahid Kaushal Yadav College, Balod",Chhattisgarh,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+"Ranchi University, Ranchi",Jharkhand,Arts,654,670,7.5,7.9,6.8,8,8.3,6.2,7.8
+St. Xavier'S College,Jharkhand,Arts,654,670,8,8.5,7.5,8.3,8.4,6.9,8.2
+Central University Of Jharkhand,Jharkhand,Arts,654,670,7.5,8.3,7.5,8.5,7.2,5.3,8.1
+"Sai Nath University, Ranchi",Jharkhand,Arts,654,670,6.8,7.4,6.7,6.8,6.9,6.9,6.3
+"Ranchi Women'S College, Ranchi",Jharkhand,Arts,654,670,7.4,8,7,8.1,7.1,6.9,7.5
+"Nirmala College, Ranchi",Jharkhand,Arts,654,670,8.5,9.2,8.1,8.9,8.7,7.3,8.8
+Doranda College,Jharkhand,Arts,654,670,6.3,6.8,5.3,7.3,6.7,5,6.5
+"Marwari College, Ranchi",Jharkhand,Arts,654,670,6.9,8.1,5.2,7.9,6.8,6.9,6.7
+Indian Institute Of Management,Jharkhand,Arts,654,670,9,8.8,8.9,9.4,8.3,9.3,9.5
+Ybn University,Jharkhand,Arts,654,670,8.2,8.5,7.5,8.5,8,8.3,8.4
+"Rkdf University, Ranchi",Jharkhand,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+Nilamber Pitamber University,Jharkhand,Arts,654,670,8.5,9,7.7,8.6,8.7,8.3,8.6
+Netaji Subhas University,Jharkhand,Arts,654,670,9,9.5,9.4,8.7,9.2,8.5,8.7
+Radha Govind University,Jharkhand,Arts,654,670,8.6,8.9,8,8.7,8.9,8.4,8.5
+National Institute Of Foundry & Forge Technology,Jharkhand,Arts,654,670,8.4,8.1,7.9,8.5,8.4,8.8,8.4
+"Arka Jain University, Jamshedpur",Jharkhand,Arts,654,670,8.1,8.1,7.7,8.1,8,7.5,9
+"Amity University, Ranchi",Jharkhand,Arts,654,670,7.8,8.2,7.5,8.5,7.2,7,8.2
+Usha Martin University,Jharkhand,Arts,654,670,7.6,8.5,6.5,8.8,6.8,7.9,7.1
+"Icfai University, Ranchi",Jharkhand,Arts,654,670,7.2,7.8,6.1,8.6,6.4,6.7,7.4
+Sarala Birla University,Jharkhand,Arts,654,670,8.5,8.6,8.3,8.4,8.8,8.4,8.2
+Capital University,Jharkhand,Arts,654,670,8.2,8.3,8.1,8,8.3,8.1,8.1
+Ramchandra Chandravansi University,Jharkhand,Arts,654,670,5.7,7,7.4,8.2,6,4,8.1
+"Coxtan Administrative & Management College, Dhanbad",Jharkhand,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+"Annada College, Hazaribagh",Jharkhand,Arts,654,670,6.9,8.1,5.3,7.4,7.3,6.2,7.2
+"B.S.K. College, Barharwa, Sahibganj",Jharkhand,Arts,654,670,6.8,8.2,5.8,8.3,7,4.2,7.5
+"Chatra College, Chatra",Jharkhand,Arts,654,670,5,2,6,6,2,8,6
+"Gossner College, Ranchi",Jharkhand,Arts,654,670,7.2,7.8,6.3,8.2,7.6,5.8,7.4
+Jagannath Jain College,Jharkhand,Arts,568,670,7.6,8.8,6.4,8.8,8.6,4.8,8.4
+"Jamshedpur Women'S College, Jamshedpur",Jharkhand,Arts,654,670,7.4,7.8,7.4,7.6,7.3,7.2,6.9
+Indian Institute Of Technology,Himachal Pradesh,Arts,654,670,7.8,7.8,8,7.7,7.5,7.5,8.1
+"Faculty Of Management Sciences And Liberal Arts,",Himachal Pradesh,Arts,654,670,8.9,8.4,8.3,9.3,8.9,9,9.5
+"St Bede'S College, Shimla",Himachal Pradesh,Arts,654,670,7.9,8.3,8.3,7.7,8.5,7.1,7.6
+Indus International University,Himachal Pradesh,Arts,654,670,6.8,8,7,7,6,7,6
+Jaypee University Of Information Technology,Himachal Pradesh,Arts,654,670,7.9,8,8.4,7,8.7,7.9,7.6
+"Shoolini University, Solan",Himachal Pradesh,Arts,654,670,8.3,8.4,7.6,8.4,8.6,8.3,8.7
+Eternal University,Himachal Pradesh,Arts,654,670,7.5,7.4,7.1,7.8,8.2,7.1,7.4
+Abhilashi University,Himachal Pradesh,Arts,654,670,8.4,8.9,8.3,8.4,8.6,8.1,8.1
+Iec University Baddi,Himachal Pradesh,Arts,654,670,7.6,7.5,7.5,7.4,7.7,8,7.5
+Career Point University,Himachal Pradesh,Arts,654,670,7.5,7.5,7.4,7,7.6,6.6,8.6
+Sri Sai University,Himachal Pradesh,Arts,654,670,7.4,7.3,6.3,8.2,7.7,6.8,8
+"Arni University, Kangra",Himachal Pradesh,Arts,654,670,8,8.2,7.4,8.1,8.4,7.7,8.4
+Bahra University,Himachal Pradesh,Arts,654,670,7.6,7.8,7.5,8,7.7,7,7.6
+"Ap Goyal Shimla University, Shimla",Himachal Pradesh,Arts,654,670,7.4,7,6.8,7.7,8,7.5,7.3
+Maharaja Agrasen University,Himachal Pradesh,Arts,654,670,7.5,7.7,7.5,7.6,8.7,7,6.2
+Manav Bharti University,Himachal Pradesh,Arts,654,670,6.2,5.3,4.7,6.7,7,6.3,7
+"Akal College Of Economics, Commerce And Management,",Himachal Pradesh,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+Baba Balak Nath Post Graduate College,Himachal Pradesh,Arts,654,670,8,8.2,7.4,8.2,8,7.5,8.1
+"Ggdsd College, Palampur",Himachal Pradesh,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+"Government Post Graduate College, Una",Himachal Pradesh,Arts,654,670,8.6,9,8.3,8.3,9.5,7.5,8.7
+"Lal Bahadur Shastri Government Degree College, Shimla",Himachal Pradesh,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+"Mp Govt College, Una",Himachal Pradesh,Arts,654,670,4.5,5,3,7,5,3,4
+"Pandit Sant Ram Government College, Kangra",Himachal Pradesh,Arts,654,670,7.8,9,7,9,7.7,5.3,8.5
+"Vallabh Government College, Mandi",Himachal Pradesh,Arts,654,670,7,8.4,6.7,8.1,6.9,3.8,8
+Deer Park Institute,Himachal Pradesh,Arts,654,670,9.2,9,9,8.2,8,7.5,8.1
+"Klb Dav College For Girls, Kangra",Himachal Pradesh,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+Himachal Pradesh University,Himachal Pradesh,Arts,654,670,7.2,7.7,6.7,7.7,7.3,6.1,7.7
+Swami Vivekanand Government College,Himachal Pradesh,Arts,654,670,8.1,8.7,8,9.5,8.3,5,9
+"Government College, Kangra",Himachal Pradesh,Arts,654,670,7.2,7.8,6.8,8,7.4,5.5,7.5
+"Government Post Graduate College, Chamba",Himachal Pradesh,Arts,654,670,5.8,7.6,4.8,7.3,7,4,4.3
+"Government Degree College, Srinagar",Jammu,Arts,654,670,7.1,7.7,6.9,7.6,7,5.7,7.8
+Shri Mata Vaishno Devi University,Jammu,Arts,654,670,7.6,7.5,7.9,7,8.3,6.7,8.3
+Central Institute Of Temperate Horticultural,Jammu,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+"University Of Jammu, Jammu",Jammu,Arts,654,670,6.6,7.5,6.8,7.4,7.6,4.9,5.6
+Indian Institute Of Technology,Jammu,Arts,654,670,8.3,8.9,8.8,8,7.8,7.6,8.6
+Islamic University Of Science And Technology,Jammu,Arts,654,670,7.4,8.4,6.9,8.2,8,5.5,7.2
+"Amar Singh Government Degree College, Srinagar",Jammu,Arts,654,670,7.1,8.2,6.2,8.6,7.6,5.2,6.9
+Government College For Women,Jammu,Arts,654,670,7.5,8.6,7.8,8.4,8.2,3.7,8.1
+"Government College For Women, Srinagar",Jammu,Arts,654,670,6.8,7,7,7,8,3.5,8.5
+"Government Degree College, Jammu",Jammu,Arts,654,670,7,8,6.3,7.8,8,4.1,7.8
+"Government Degree College For Boys, Anantnag",Jammu,Arts,654,670,6.1,6.9,5.1,6.6,6.9,4.6,6.2
+"Government Degree College For Boys, Udhampur",Jammu,Arts,654,670,6.6,6.7,5.7,7,6.7,5.3,8
+"Government Degree College For Women, Anantnag",Jammu,Arts,654,670,8,9,6,9,9,7,8
+"Government Mam College, Jammu",Jammu,Arts,654,670,7.1,7.4,6.3,8.3,7,5.1,8.4
+"Jamia Tul Banat Saifni, Srinagar",Jammu,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+"Swami Vishwatamanand Saraswati Degree College, Rajauri",Jammu,Arts,654,670,8.8,8,9,9,9,9,9
+"Government Degree College, Doda",Jammu,Arts,654,670,6.7,8.2,7.4,8.2,8,7.5,8.1
+"Government Degree College, Kathua",Jammu,Arts,654,670,6.3,7,6.1,7.3,6.4,4.9,6.3
+"Baba Farid College Of Education, Kathua",Jammu,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+Bhargava Degree College,Jammu,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+Baba Ghulam Shah Badshah University,Jammu,Arts,654,670,7.2,7.9,7.6,7.4,7.1,5.9,7.1
+"Central University Of Jammu, Jammu",Jammu,Arts,654,670,8.2,8.4,7.8,8.5,8.6,7.3,8.5
+Central University Of Kashmir,Jammu,Arts,654,670,7.8,8.2,7.8,8.4,7.2,7.4,7.6
+University Of Kashmir,Jammu,Arts,654,670,6.7,7,6.9,7.1,7.2,5.1,6.8
+"Govt. Gandhi Memorial Science College, Jammu",Jammu,Arts,654,670,6.7,7.3,6.1,7.9,6.8,4.2,7.6
+"Gandhi Memorial College, Srinagar",Jammu,Arts,654,670,5.6,6.7,4.4,7.9,5.7,3.3,5.6
+"Government Degree College, Baramulla",Jammu,Arts,654,670,7.4,8.2,6.4,8.4,8,6.3,7.3
+Government Degree College,Jammu,Arts,654,670,7.2,8.4,5.4,8.4,8.4,4.7,7.9
+Government Degree College Pulwama,Jammu,Arts,654,670,6.8,6.5,6,8,6.5,6.6,7.4
+"Islamia College Of Science And Commerce, Srinagar",Jammu,Arts,654,670,7.3,8.1,7.2,7.8,7.7,5.7,7.5
+Mehr Chand Mahajan Dayanand Anglo Vedic College,Chandigarh,Arts,654,670,8.2,8.4,8,8.5,8.2,7.6,8.4
+Dav College,Chandigarh,Arts,654,670,8,8.4,7.4,8.3,8,6.8,8.8
+"Post Graduate Government College For Girls, Chandigarh",Chandigarh,Arts,654,670,8.1,8.6,8.4,8.9,8.2,6.1,8.5
+"Post Graduate Government College, Chandigarh",Chandigarh,Arts,654,670,7.7,8.4,7.3,8.4,7.4,6.5,7.9
+Panjab University,Chandigarh,Arts,654,670,7.7,8.2,7.7,8,7.7,6.5,8.2
+"Government Home Science College, Chandigarh",Chandigarh,Arts,654,670,9.1,8.7,9.3,9.3,8.7,8.7,9.7
+"University School Of Business, Chandigarh University",Chandigarh,Arts,654,670,9.1,9.1,8.8,9.1,9.2,9.3,8.9
+Goswami Ganesh Dutt Sanatan Dharama College,Chandigarh,Arts,654,670,8.1,8.6,7.6,8.5,8.1,7.1,8.8
+"Guru Gobind Singh College For Women, Chandigarh",Chandigarh,Arts,654,670,6.5,7.5,5.5,8.3,6,3.7,8
+"Dev Samaj College For Women, Chandigarh",Chandigarh,Arts,654,670,8.3,8.3,8.7,9.4,8.3,6.5,8.4
+Indian National Portage Association,Chandigarh,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+Regional Institute Of English,Chandigarh,Arts,654,670,8.7,9,9,8.2,8,7.5,8.1
+"Pracheen Kala Kendra, Chandigarh",Chandigarh,Arts,654,670,9.1,9.7,9,9.3,9.3,8.4,8.8
+"Institute Of Fine Arts, Chandigarh",Chandigarh,Arts,654,670,8,8.3,7.7,8.7,8,6,9
+"Dev Samaj College Of Education, Chandigarh",Chandigarh,Arts,654,670,8.9,9,8,9.5,8.5,9,9.5
+Swami Vivekanand College Of Education,Chandigarh,Arts,654,670,9.3,8.2,7.4,8.2,8,7.5,8.1
+"Artex Informatic Solutions, Chandigarh",Chandigarh,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+Sri Guru Gobind Singh College,Chandigarh,Arts,654,670,7.9,8.3,7.5,8.6,7.5,6.8,8.4
+"Pg Government College For Girls, Chandigarh",Chandigarh,Arts,654,670,8.1,7.7,7.4,8.9,8.3,8.2,8
+Indian Institute Of Fashion & Design,Chandigarh,Arts,654,670,8.4,8,8.4,8.7,8.3,8.6,8.4
+"University School Of Open Learning, Panjab University",Chandigarh,Arts,654,670,7.8,8.6,6.5,8.6,7.9,7.2,8.2
+"Institute Of Distance & Online Learning, Chandigarh",Chandigarh,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+"Government College Of Arts, Chandigarh",Chandigarh,Arts,654,670,7.7,8.2,7.4,7,8,6,8.1
+Government Polytechnic For Women,Chandigarh,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+Swami Vivekanand College Of Management And Technology,Chandigarh,Arts,654,670,8.3,9,8,8.2,8,8,8.1
+Swami Vivekanand Group Of Institutes,Chandigarh,Arts,654,670,8.5,9,7.8,8.2,9,8.1,8.1
+"Government College Of Arts Science And Commerce Sanquelim, North Goa",Goa,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+"St. Xavier'S College, Bardez",Goa,Arts,654,670,7.6,8.1,7.2,7.9,8.3,5.3,8.6
+National Institute Of Technology,Goa,Arts,654,670,7.3,8.3,6,8.4,5.6,7.9,7.6
+Indian Institute Of Technology,Goa,Arts,654,670,8,8.4,7.9,8.5,7.9,7,8.4
+Birla Institute Of Technology And Science,Goa,Arts,654,670,8.5,8.4,8.3,7.8,8.7,8.7,8.9
+"Ces College Of Arts And Commerce, Salcete",Goa,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+"Carmel College For Women, Salcete",Goa,Arts,654,670,7.5,9,5.3,9.3,6.3,6.3,9
+"Dctâ€™S Dhempe College Of Arts And Science, Panji",Goa,Arts,654,670,7.3,8.2,6.5,8,7.5,5.3,8.5
+"Dnyanprassarak Mandal'S College Of Arts Science Commerce Management Studies & Technology, Bardez",Goa,Arts,654,670,6.6,7.2,5.2,7.8,7.2,5.8,6.4
+"Government College Of Arts Science And Commerce Quepem, North Goa",Goa,Arts,654,670,7.8,8,8,9.7,6.5,5,9.3
+Murgaon Education Societys College Of Arts And Commerce,Goa,Arts,654,670,8.1,9,7.5,8.5,8.7,6.7,8
+"Rosary College Of Commerce And Arts, Salcete",Goa,Arts,654,670,7.3,8,5.5,8.5,7.1,6.4,8
+"Shree Maliikarjun College Of Arts And Commerce, South Goa",Goa,Arts,654,670,9.5,8.2,7.4,8.2,8,7.5,8.1
+"Parvatibai Chowgule College Of Arts And Science, Salcete",Goa,Arts,654,670,7.6,7.3,6.3,8.5,8.3,6.6,8.5
+"Goa College Of Art, Panji",Goa,Arts,654,670,6.2,7,6.5,7,6.5,3,7
+"Goa University, North Goa",Goa,Arts,654,670,7.9,8.6,7.4,7.8,7.7,8,7.6
+"S. S. Dempo College Of Commerce And Economics, Panji",Goa,Arts,654,670,6.6,7.3,4.8,6.8,7.5,6.3,7
+"Don Bosco College, Panji",Goa,Arts,654,670,6.3,6.9,4.9,7,6.3,4.4,8.1
+International Institute Of Hotel Management,Goa,Arts,654,670,8.7,8.5,8.5,8.9,8.5,9.1,8.6
+"Government College Of Arts, Science And Commerce, North Goa",Goa,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+Fr. Agnel College Of Arts And Commerce,Goa,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+Dera Natung Government College,Arunachal Pradesh,Arts,654,670,4.3,4.7,1.5,6.3,5,2.3,6
+North Eastern Regional Institute Of Science And Technology,Arunachal Pradesh,Arts,654,670,6.9,7.8,6.7,7.2,6.5,5.1,8.3
+"Arunodaya University, Itanagar",Arunachal Pradesh,Arts,654,670,8.4,9,8.5,8.2,9,7.5,7.9
+Himalayan University,Arunachal Pradesh,Arts,654,670,8.6,8.6,8,8.9,9.1,8.1,9
+Apex Professional University,Arunachal Pradesh,Arts,654,670,7.4,7.5,7.5,7.5,7.5,7.5,7
+"Indira Gandhi Government College, Lohit",Arunachal Pradesh,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+"Jawaharlal Nehru College, East Siang",Arunachal Pradesh,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+"Saint Claret College, Ziro",Arunachal Pradesh,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+"St Francis Sales College, West Siang",Arunachal Pradesh,Arts,654,670,7.5,8,8,8,7,6,8
+Rajiv Gandhi University,Arunachal Pradesh,Arts,654,670,7,7.4,6.6,7.7,7.6,5.4,7.2
+Arunachal University Of Studies,Arunachal Pradesh,Arts,654,670,8.3,8.7,7.9,8.4,8.1,8.2,8.4
+"Institute Of Distance Education, Rajiv Gandhi University, Itanagar",Arunachal Pradesh,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+North East Frontier Technical University,Arunachal Pradesh,Arts,654,670,8.3,9,7.6,8.5,8.2,8.7,8
+Venkateshwara Open University,Arunachal Pradesh,Arts,654,670,7.9,8.3,7.3,8.5,7.5,7.8,8.2
+"Indira Gandhi Technological And Medical Sciences University, Ziro",Arunachal Pradesh,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+"Don Bosco College, Itanagar",Arunachal Pradesh,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+Siang Royal Academy,Arunachal Pradesh,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+"The Global University, Itanagar",Arunachal Pradesh,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+"Mahabodhi Lord Buddha College, Namsai",Arunachal Pradesh,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+"Mudo Tamo Memorial College, Lower Subansiri",Arunachal Pradesh,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+"Doying Gumin College, Pasighat",Arunachal Pradesh,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+Indian Institute Of Management,Meghalaya,Arts,654,670,8.9,8.8,8.8,9,8.9,8.9,8.7
+"Cmj University, Ri-Bhoi",Meghalaya,Arts,654,670,8.3,8.8,7.8,8.5,7.8,8.2,8.6
+North-Eastern Hill University,Meghalaya,Arts,654,670,7.9,7.9,7.8,8.2,8.4,6.6,8.2
+Martin Luther Christian University,Meghalaya,Arts,654,670,7.9,8.3,8,8.4,7,7.4,8.1
+University Of Science And Technology,Meghalaya,Arts,654,670,8.4,8.7,8.1,8.7,8.5,7.9,8.5
+Mahatma Gandhi University,Meghalaya,Arts,654,670,8.1,9,7,9,9,6.3,8.4
+William Carey University,Meghalaya,Arts,654,670,8.5,9.2,8.4,8.4,8.2,8.1,8.6
+"Icfai University, Shillong",Meghalaya,Arts,654,670,7.1,7.2,6.7,7.3,7.2,7.4,6.8
+Jaintia Eastern College,Meghalaya,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+"Lady Keane College, Shillong",Meghalaya,Arts,654,200,7.9,8.2,7.4,8.2,8,7.5,8.1
+"Sankardev College, Shillong",Meghalaya,Arts,654,670,8.1,8.7,8,8,8,7.7,8
+"St Anthony'S College, Shillong",Meghalaya,Arts,654,670,8.3,8.9,7.4,8.4,8.9,6.9,9
+"St Mary'S College, Shillong",Meghalaya,Arts,654,670,7.2,7,8,8,7.7,5.3,7.3
+"Synod College, Shillong",Meghalaya,Arts,654,670,3.5,4.3,1,5,3.5,2,5
+"Umshyrpi College, Shillong",Meghalaya,Arts,654,670,7.6,8,7,7.5,8,8,7
+"Union Christian College, Shillong",Meghalaya,Arts,654,670,8.4,9,8.5,7.7,9,6.6,9.7
+"Harding Theological College, West Garo Hills",Meghalaya,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+English And Foreign Languages University,Meghalaya,Arts,654,670,8.3,9,8.3,8.3,9,7.7,7.3
+"Shillong College, Shillong",Meghalaya,Arts,654,670,7,6.5,6,8.6,6.7,6.4,7.8
+Techno Global University,Meghalaya,Arts,654,670,8.1,8,8.5,9,8,7,8
+"St. Edmund'S College, Shillong",Meghalaya,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+"Nagaland University, Zunhebotto",Nagaland,Arts,654,670,8.1,8.1,7.7,8.7,7.8,7.8,8.3
+"St.Joseph University, Dimapur",Nagaland,Arts,654,670,8.1,8.4,7.9,8.3,8,8.1,8.1
+"Icfai University, Dimapur",Nagaland,Arts,654,670,7.4,7.1,7.1,7.8,8.2,7,7.3
+"Alder College, Kohima",Nagaland,Arts,654,670,8.7,9,8,9,8,9,9
+Anderson Theological College,Nagaland,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+"Dimapur Government College, Dimapur",Nagaland,Arts,654,670,7,8.2,5.9,8.6,6.4,6.2,6.7
+Discipleship Bible College,Nagaland,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+"Immanuel College, Dimapur",Nagaland,Arts,654,670,5.3,6,5,8,5,1,7
+"Kohima College, Kohima",Nagaland,Arts,654,670,7,7.6,6,7.5,7.6,6.2,7
+Oriental Theological Seminary,Nagaland,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+"Patkai Christian College, Dimapur",Nagaland,Arts,654,670,8.1,9,7,9.4,8.3,5.8,9
+"St Joseph'S College, Kohima",Nagaland,Arts,654,670,8.4,9,7.9,8.5,8.9,7.1,9.2
+"Baptist Theological College-[Btc], Phek",Nagaland,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+Clark Theological College,Nagaland,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+Kohima Science College,Nagaland,Arts,654,670,7.6,8.6,7.6,8.3,7.2,6,8
+The Global Open University,Nagaland,Arts,654,670,7.8,8.9,7.3,8.4,7.6,7.3,7.4
+"Fazl Ali College, Mokokchung",Nagaland,Arts,654,670,7.5,8.2,7.3,7.8,7.6,6.2,7.6
+Modern College Kohima,Nagaland,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+"Oriental College, Kohima",Nagaland,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+"Unity College, Dimapur",Nagaland,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+"Tetso College, Dimapur",Nagaland,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+"Shri Digamber Jain Girls' College, Dimapur",Nagaland,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+"Sakus Mission College, Dimapur",Nagaland,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+"North East Institute Of Social Science & Research, Dimapur",Nagaland,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+Model Christian College,Nagaland,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+"Kros College, Kohima",Nagaland,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+Capital College Of Higher Education,Nagaland,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+Pondicherry University,Puducherry,Arts,654,670,7.8,8,7.3,8,8.1,6.9,8.4
+Bharathidasan Government College For Women,Puducherry,Arts,654,670,7.4,7.7,6.4,7.4,7.6,7.6,7.6
+National Institute Of Technology,Puducherry,Arts,654,670,7,7.8,6.8,7.2,6.3,6.6,7.2
+Sri Balaji Vidyapeeth University,Puducherry,Arts,654,670,8.9,9,8.5,9.3,9.5,9,8
+Achariya Arts And Science College,Puducherry,Arts,654,670,7.2,7.5,6.7,7.5,6.9,7.3,7.5
+Avvaiyar Government College For Women,Puducherry,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+"Dr Srk Government Arts College, Yanam",Puducherry,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+"Idhaya Arts And Science College For Women, Pondicherry",Puducherry,Arts,654,670,5.7,5.8,5.4,5.6,6,5.8,5.8
+Kanchi Mamunivar Centre For Post Graduate Studies,Puducherry,Arts,654,670,5.8,6,5,6,5.5,6,6.5
+"Perunthalaivar Kamarajar Government Arts College, Pondicherry",Puducherry,Arts,654,670,6.2,6.3,5.8,7.3,5.8,5,7
+Tagore Art College,Puducherry,Arts,654,670,6.1,6.7,5.4,7,6,5.7,6
+"Bharathiar Palkalaikoodam, Pondicherry",Puducherry,Arts,654,670,8.8,8,7.4,8.2,8,7.5,8.1
+The French Institute Of Pondicherry,Puducherry,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+"Achariya College Of Education, Pondicherry",Puducherry,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+"Pondicherry University, Directorate Of Distance Education",Puducherry,Arts,654,670,8.2,8.8,7.9,8.2,8.3,7.7,8
+Mahatma Gandhi Government Arts College,Puducherry,Arts,654,670,5.7,8,4,5.3,7.7,2,7.3
+National Institute Of Technology,Tripura,Arts,654,670,8,8.1,7.7,7.3,8.7,7.8,8.2
+"Icfai University, West Tripura",Tripura,Arts,654,670,8,8.1,7.6,8.1,8.3,7.6,8.5
+Bir Bikram Memorial College,Tripura,Arts,654,670,7.8,8.5,7.5,8,7.5,7,8
+Dasarath Deb Memorial College,Tripura,Arts,654,670,5.8,8,4,7,6,3,7
+"Holy Cross College, Agartala",Tripura,Arts,654,670,7.3,8.1,7.9,8.1,6.9,5.3,7.4
+"Netaji Subhash Mahavidyalaya, Udaipur",Tripura,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+"Ramthakur College, West Tripura",Tripura,Arts,654,670,7.1,8.4,4.6,8.4,7.8,7,6.6
+"Womens College, Agartala",Tripura,Arts,654,670,7.5,8.2,7.4,8.2,8,7.5,8.1
+"Government Degree College, North Tripura",Tripura,Arts,360,670,7.8,8.2,7.4,8.2,8,7.5,8.1
+"Tripura University, West Tripura",Tripura,Arts,654,670,7.5,8,7.1,8.4,7.6,6,8
+"Maharaja Bir Bikram College, Agartala",Tripura,Arts,654,670,6.6,6.9,4,7.7,7.3,6.2,7.2
+"Directorate Of Distance Education, Tripura University, West Tripura",Tripura,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+"Government Degree College, Dhalai",Tripura,Arts,320,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+Kabi Nazrul Mahavidyalaya,Tripura,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+"Adwaita Malla Barman Smriti Mahavidyalaya (Ambs), Amarpur",Tripura,Arts,968,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+"Maharaja Bir Bikram University, Agartala",Tripura,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+"Icfai University, Gangtok",Sikkim,Arts,654,670,6.8,6.7,6.8,7,6.7,7,6.6
+"Srm University Sikkim, Gangtok",Sikkim,Arts,654,670,8.1,7.7,7.1,8.5,8.3,8.3,8.4
+Sikkim Manipal University,Sikkim,Arts,654,670,7.4,7.9,6.5,8.2,7.6,6.8,7.4
+National Institute Of Technology,Sikkim,Arts,654,670,7.5,8.1,7.2,8,6.5,7.8,7.6
+Vinayaka Missions Sikkim University,Sikkim,Arts,654,670,7.8,7.8,7.8,8,7.8,7.5,7.8
+"Damber Singh College, East Sikkim",Sikkim,Arts,654,670,8,8,8,8,8,8,8
+"Nar Bahadur Bhandari Degree College, East Sikkim",Sikkim,Arts,654,670,7.7,8,7.7,9,7.7,5.3,8.3
+"Sikkim University, Gangtok",Sikkim,Arts,654,670,8.4,9,8.3,8.9,7.4,8.1,8.5
+Directorate Of Distance Education Sikkim Manipal University,Sikkim,Arts,654,670,8.2,8.8,7.7,7.9,8.7,8.1,8.2
+Sikkim State University,Sikkim,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+National Institute Of Technology,Manipur,Arts,654,670,7.9,7.9,7.1,8.2,7.4,8.4,8.2
+"Dm College Of Arts, Imphal",Manipur,Arts,654,670,6.1,7.4,5,7.5,6.6,3.8,6
+"Grace Bible College, Churachandpur",Manipur,Arts,654,670,6.3,8,4,8.2,8,7.5,8.1
+"Kakching Khunou College, Thoubal",Manipur,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+"United College, Chandel",Manipur,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+"Imphal College, Imphal",Manipur,Arts,654,670,6.2,8,4.5,6.5,5,4.5,8.5
+"Waikhom Mani Girl'S College, Thoubal",Manipur,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+Manipur University,Manipur,Arts,654,670,8.1,8.4,8.2,8.5,7.7,7.2,8.4
+"Lilong Haoreibi College, Imphal",Manipur,Arts,654,670,6.3,5,5,7.5,5,7,8
+"The Modern College, Imphal",Manipur,Arts,654,670,5.7,7,7,6,4,5,5
+"Dhanamanjuri University, Imphal",Manipur,Arts,654,670,6.9,7.5,8,7,7,5,8.1
+Manipur University Of Culture,Manipur,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+"Bir Tikendrajit University, Imphal",Manipur,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+National Institute Of Technology,Mizoram,Arts,654,670,5.4,6.3,4.5,6.4,3.9,6.5,5
+"Icfai University, Aizawl",Mizoram,Arts,654,670,7,7.1,6.9,7.2,6.9,6.8,6.8
+"Aizawl Theological College-[Atc], Aizawl",Mizoram,Arts,654,670,8.5,9,8.5,9,8.5,8,8
+"Government Aizawl West College, Aizawl",Mizoram,Arts,654,670,7.2,7.5,7,7,5.5,8,8
+"Government Champhai College, Champhai",Mizoram,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+"Government Saiha College, Saiha",Mizoram,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+"Pachhunga University College, Aizawl",Mizoram,Arts,654,670,8.3,9.3,8,8.8,9,6.1,8.5
+Govt. T.Romana College,Mizoram,Arts,654,670,6.2,6.5,6,6.5,6,6,6
+Mizoram University,Mizoram,Arts,654,670,8,8.7,7,8.8,8,7.6,7.9
+"Government Serchhip College, Serchhip",Mizoram,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+"Government J.Thankima College, Aizawl",Mizoram,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+National Institute Of Electronics & Information Technology,Mizoram,Arts,654,670,5.3,7,6,8.2,7,1,8.1
+Jawaharlal Nehru Rajkeeya Mahavidyalaya,Andaman,Arts,843,670,6.6,8.5,5,7,7.5,2.5,9
+"Mahatma Gandhi Government College, Mayabander",Andaman,Arts,654,670,7.9,8.2,7.4,8.2,8,7.5,8.1
+"Tagore Government College Of Education, Port Blair",Andaman,Arts,654,670,9,9,7.4,8.2,9,9,8.1

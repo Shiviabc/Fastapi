@@ -1,0 +1,34 @@
+[
+  {
+    "college_name": "Indian Institute of Technology, Bombay (IITB)",
+    "location": "Mumbai, India",
+    "specializations": ["Computer Science", "Artificial Intelligence", "Electrical Engineering"],
+    "required_board_marks": 90.0,
+    "required_entrance_exam_percentile": 99.8,
+    "description": "IIT Bombay is a premier institution known for its rigorous engineering programs and strong focus on research and innovation, especially in CS and AI."
+  },
+  {
+    "college_name": "International Institute of Information Technology, Hyderabad (IIIT-H)",
+    "location": "Hyderabad, India",
+    "specializations": ["Computer Science", "AI and Machine Learning", "Computational Linguistics"],
+    "required_board_marks": 90.0,
+    "required_entrance_exam_percentile": 99.5,
+    "description": "IIIT-H is a top-tier university renowned for its research-oriented curriculum, particularly in computer science and artificial intelligence."
+  },
+  {
+    "college_name": "Delhi Technological University (DTU)",
+    "location": "Delhi, India",
+    "specializations": ["Computer Engineering", "Software Engineering", "Information Technology", "AI"],
+    "required_board_marks": 85.0,
+    "required_entrance_exam_percentile": 98.0,
+    "description": "DTU is a leading engineering college with a strong reputation for its computer science programs and a vibrant campus life."
+  },
+  {
+    "college_name": "Vellore Institute of Technology (VIT)",
+    "location": "Vellore, India",
+    "specializations": ["Computer Science", "AI", "Data Science"],
+    "required_board_marks": 80.0,
+    "required_entrance_exam_percentile": 95.0,
+    "description": "VIT is a well-regarded private university offering a wide range of engineering specializations and known for its excellent placement record."
+  }
+]
